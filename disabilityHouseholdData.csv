@@ -1,0 +1,34 @@
+code,category,value,areaName
+W92000004,0 disabled people,836508,Wales
+W92000004,1 disabled person,396883,Wales
+W92000004,2 or more disabled people,113721,Wales
+E12000001,0 disabled people,739576,North East
+E12000001,1 disabled person,343974,North East
+E12000001,2 or more disabled people,92131,North East
+E12000002,0 disabled people,2049142,North West
+E12000002,1 disabled person,870295,North West
+E12000002,2 or more disabled people,233966,North West
+E12000003,0 disabled people,1544204,Yorkshire and The Humber
+E12000003,1 disabled person,623593,Yorkshire and The Humber
+E12000003,2 or more disabled people,162859,Yorkshire and The Humber
+E12000004,0 disabled people,1356541,East Midlands
+E12000004,1 disabled person,533196,East Midlands
+E12000004,2 or more disabled people,147596,East Midlands
+E12000005,0 disabled people,1608817,West Midlands
+E12000005,1 disabled person,641412,West Midlands
+E12000005,2 or more disabled people,179264,West Midlands
+E12000006,0 disabled people,1816840,East of England
+E12000006,1 disabled person,644288,East of England
+E12000006,2 or more disabled people,167654,East of England
+E12000007,0 disabled people,2512350,London
+E12000007,1 disabled person,736752,London
+E12000007,2 or more disabled people,174788,London
+E12000008,0 disabled people,2663881,South East
+E12000008,1 disabled person,911892,South East
+E12000008,2 or more disabled people,232191,South East
+E12000009,0 disabled people,1636847,South West
+E12000009,1 disabled person,644678,South West
+E12000009,2 or more disabled people,167359,South West
+W92000004,0 disabled people,836508,Wales
+W92000004,1 disabled person,396883,Wales
+W92000004,2 or more disabled people,113721,Wales
