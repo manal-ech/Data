@@ -1,1986 +1,1656 @@
-code,city ,deprivation code,value
-E06000001,Hartlepool,1,17262
-E06000001,Hartlepool,2,13735
-E06000001,Hartlepool,3,7570
-E06000001,Hartlepool,4,2278
-E06000001,Hartlepool,5,85
-E06000002,Middlesbrough,-8,0
-E06000002,Middlesbrough,1,25407
-E06000002,Middlesbrough,2,20394
-E06000002,Middlesbrough,3,10816
-E06000002,Middlesbrough,4,3517
-E06000002,Middlesbrough,5,128
-E06000003,Redcar and Cleveland,-8,0
-E06000003,Redcar and Cleveland,1,27192
-E06000003,Redcar and Cleveland,2,21064
-E06000003,Redcar and Cleveland,3,10307
-E06000003,Redcar and Cleveland,4,2969
-E06000003,Redcar and Cleveland,5,106
-E06000004,Stockton-on-Tees,-8,0
-E06000004,Stockton-on-Tees,1,40497
-E06000004,Stockton-on-Tees,2,27187
-E06000004,Stockton-on-Tees,3,12617
-E06000004,Stockton-on-Tees,4,3324
-E06000004,Stockton-on-Tees,5,132
-E06000005,Darlington,-8,0
-E06000005,Darlington,1,23775
-E06000005,Darlington,2,16384
-E06000005,Darlington,3,6944
-E06000005,Darlington,4,1738
-E06000005,Darlington,5,76
-E06000006,Halton,-8,0
-E06000006,Halton,1,24183
-E06000006,Halton,2,18732
-E06000006,Halton,3,9843
-E06000006,Halton,4,3088
-E06000006,Halton,5,103
-E06000007,Warrington,-8,0
-E06000007,Warrington,1,46997
-E06000007,Warrington,2,29036
-E06000007,Warrington,3,11560
-E06000007,Warrington,4,2824
-E06000007,Warrington,5,121
-E06000008,Blackburn with Darwen,-8,0
-E06000008,Blackburn with Darwen,1,24187
-E06000008,Blackburn with Darwen,2,19982
-E06000008,Blackburn with Darwen,3,10718
-E06000008,Blackburn with Darwen,4,3692
-E06000008,Blackburn with Darwen,5,188
-E06000009,Blackpool,-8,0
-E06000009,Blackpool,1,24769
-E06000009,Blackpool,2,22750
-E06000009,Blackpool,3,12785
-E06000009,Blackpool,4,4183
-E06000009,Blackpool,5,302
-E06000010,Kingston upon Hull,-8,0
-E06000010,Kingston upon Hull,1,47556
-E06000010,Kingston upon Hull,2,39375
-E06000010,Kingston upon Hull,3,21788
-E06000010,Kingston upon Hull,4,6452
-E06000010,Kingston upon Hull,5,301
-E06000011,East Riding of Yorkshire,-8,0
-E06000011,East Riding of Yorkshire,1,77704
-E06000011,East Riding of Yorkshire,2,51733
-E06000011,East Riding of Yorkshire,3,18920
-E06000011,East Riding of Yorkshire,4,3542
-E06000011,East Riding of Yorkshire,5,167
-E06000012,North East Lincolnshire,-8,0
-E06000012,North East Lincolnshire,1,30701
-E06000012,North East Lincolnshire,2,24150
-E06000012,North East Lincolnshire,3,11618
-E06000012,North East Lincolnshire,4,3222
-E06000012,North East Lincolnshire,5,135
-E06000013,North Lincolnshire,-8,0
-E06000013,North Lincolnshire,1,33731
-E06000013,North Lincolnshire,2,25637
-E06000013,North Lincolnshire,3,11151
-E06000013,North Lincolnshire,4,2565
-E06000013,North Lincolnshire,5,89
-E06000014,York,-8,0
-E06000014,York,1,46025
-E06000014,York,2,27910
-E06000014,York,3,9518
-E06000014,York,4,1918
-E06000014,York,5,88
-E06000015,Derby,-8,0
-E06000015,Derby,1,48185
-E06000015,Derby,2,35658
-E06000015,Derby,3,16606
-E06000015,Derby,4,4907
-E06000015,Derby,5,296
-E06000016,Leicester,-8,0
-E06000016,Leicester,1,49397
-E06000016,Leicester,2,45634
-E06000016,Leicester,3,24094
-E06000016,Leicester,4,7624
-E06000016,Leicester,5,639
-E06000017,Rutland,-8,0
-E06000017,Rutland,1,9675
-E06000017,Rutland,2,5284
-E06000017,Rutland,3,1529
-E06000017,Rutland,4,198
-E06000017,Rutland,5,8
-E06000018,Nottingham,-8,0
-E06000018,Nottingham,1,51881
-E06000018,Nottingham,2,42946
-E06000018,Nottingham,3,22536
-E06000018,Nottingham,4,7016
-E06000018,Nottingham,5,366
-E06000019,Herefordshire,-8,0
-E06000019,Herefordshire,1,40941
-E06000019,Herefordshire,2,28690
-E06000019,Herefordshire,3,10761
-E06000019,Herefordshire,4,2284
-E06000019,Herefordshire,5,149
-E06000020,Telford and Wrekin,-8,0
-E06000020,Telford and Wrekin,1,35190
-E06000020,Telford and Wrekin,2,25928
-E06000020,Telford and Wrekin,3,12129
-E06000020,Telford and Wrekin,4,3138
-E06000020,Telford and Wrekin,5,125
-E06000021,Stoke-on-Trent,-8,0
-E06000021,Stoke-on-Trent,1,45368
-E06000021,Stoke-on-Trent,2,38581
-E06000021,Stoke-on-Trent,3,20120
-E06000021,Stoke-on-Trent,4,6068
-E06000021,Stoke-on-Trent,5,263
-E06000022,Bath and North East Somerset,-8,0
-E06000022,Bath and North East Somerset,1,42870
-E06000022,Bath and North East Somerset,2,25495
-E06000022,Bath and North East Somerset,3,8952
-E06000022,Bath and North East Somerset,4,1819
-E06000022,Bath and North East Somerset,5,114
-E06000023,Bristol,-8,0
-E06000023,Bristol,1,96135
-E06000023,Bristol,2,60901
-E06000023,Bristol,3,26503
-E06000023,Bristol,4,7515
-E06000023,Bristol,5,584
-E06000024,North Somerset,-8,0
-E06000024,North Somerset,1,48754
-E06000024,North Somerset,2,31684
-E06000024,North Somerset,3,11454
-E06000024,North Somerset,4,2565
-E06000024,North Somerset,5,190
-E06000025,South Gloucestershire,-8,0
-E06000025,South Gloucestershire,1,63701
-E06000025,South Gloucestershire,2,38638
-E06000025,South Gloucestershire,3,13163
-E06000025,South Gloucestershire,4,2454
-E06000025,South Gloucestershire,5,145
-E06000026,Plymouth,-8,0
-E06000026,Plymouth,1,52100
-E06000026,Plymouth,2,38898
-E06000026,Plymouth,3,18228
-E06000026,Plymouth,4,5049
-E06000026,Plymouth,5,282
-E06000027,Torbay,-8,0
-E06000027,Torbay,1,26537
-E06000027,Torbay,2,22606
-E06000027,Torbay,3,10615
-E06000027,Torbay,4,2984
-E06000027,Torbay,5,252
-E06000030,Swindon,-8,0
-E06000030,Swindon,1,47251
-E06000030,Swindon,2,32397
-E06000030,Swindon,3,12869
-E06000030,Swindon,4,3167
-E06000030,Swindon,5,178
-E06000031,Peterborough,-8,0
-E06000031,Peterborough,1,38082
-E06000031,Peterborough,2,29514
-E06000031,Peterborough,3,13102
-E06000031,Peterborough,4,3578
-E06000031,Peterborough,5,257
-E06000032,Luton,-8,0
-E06000032,Luton,1,32610
-E06000032,Luton,2,28763
-E06000032,Luton,3,13520
-E06000032,Luton,4,3732
-E06000032,Luton,5,315
-E06000033,Southend-on-Sea,-8,0
-E06000033,Southend-on-Sea,1,35711
-E06000033,Southend-on-Sea,2,27058
-E06000033,Southend-on-Sea,3,11979
-E06000033,Southend-on-Sea,4,3277
-E06000033,Southend-on-Sea,5,319
-E06000034,Thurrock,-8,0
-E06000034,Thurrock,1,30305
-E06000034,Thurrock,2,23194
-E06000034,Thurrock,3,10204
-E06000034,Thurrock,4,2500
-E06000034,Thurrock,5,174
-E06000035,Medway,-8,0
-E06000035,Medway,1,51808
-E06000035,Medway,2,38410
-E06000035,Medway,3,16523
-E06000035,Medway,4,4326
-E06000035,Medway,5,391
-E06000036,Bracknell Forest,-8,0
-E06000036,Bracknell Forest,1,28327
-E06000036,Bracknell Forest,2,15641
-E06000036,Bracknell Forest,3,5132
-E06000036,Bracknell Forest,4,1069
-E06000036,Bracknell Forest,5,79
-E06000037,West Berkshire,-8,0
-E06000037,West Berkshire,1,37321
-E06000037,West Berkshire,2,21058
-E06000037,West Berkshire,3,6829
-E06000037,West Berkshire,4,1365
-E06000037,West Berkshire,5,85
-E06000038,Reading,-8,0
-E06000038,Reading,1,34684
-E06000038,Reading,2,21772
-E06000038,Reading,3,8682
-E06000038,Reading,4,2350
-E06000038,Reading,5,195
-E06000039,Slough,-8,0
-E06000039,Slough,1,22184
-E06000039,Slough,2,19176
-E06000039,Slough,3,8603
-E06000039,Slough,4,2293
-E06000039,Slough,5,168
-E06000040,Windsor and Maidenhead,-8,0
-E06000040,Windsor and Maidenhead,1,35924
-E06000040,Windsor and Maidenhead,2,18161
-E06000040,Windsor and Maidenhead,3,5724
-E06000040,Windsor and Maidenhead,4,1071
-E06000040,Windsor and Maidenhead,5,53
-E06000041,Wokingham,-8,0
-E06000041,Wokingham,1,42518
-E06000041,Wokingham,2,20173
-E06000041,Wokingham,3,5513
-E06000041,Wokingham,4,900
-E06000041,Wokingham,5,60
-E06000042,Milton Keynes,-8,0
-E06000042,Milton Keynes,1,57966
-E06000042,Milton Keynes,2,36777
-E06000042,Milton Keynes,3,14442
-E06000042,Milton Keynes,4,3653
-E06000042,Milton Keynes,5,264
-E06000043,Brighton and Hove,-8,0
-E06000043,Brighton and Hove,1,58122
-E06000043,Brighton and Hove,2,40060
-E06000043,Brighton and Hove,3,17461
-E06000043,Brighton and Hove,4,5195
-E06000043,Brighton and Hove,5,563
-E06000044,Portsmouth,-8,0
-E06000044,Portsmouth,1,40658
-E06000044,Portsmouth,2,28802
-E06000044,Portsmouth,3,12890
-E06000044,Portsmouth,4,3524
-E06000044,Portsmouth,5,281
-E06000045,Southampton,-8,0
-E06000045,Southampton,1,46401
-E06000045,Southampton,2,35075
-E06000045,Southampton,3,15830
-E06000045,Southampton,4,4573
-E06000045,Southampton,5,412
-E06000046,Isle of Wight,-8,0
-E06000046,Isle of Wight,1,28569
-E06000046,Isle of Wight,2,23476
-E06000046,Isle of Wight,3,10070
-E06000046,Isle of Wight,4,2465
-E06000046,Isle of Wight,5,195
-E06000047,County Durham,-8,0
-E06000047,County Durham,1,104412
-E06000047,County Durham,2,79207
-E06000047,County Durham,3,39903
-E06000047,County Durham,4,10931
-E06000047,County Durham,5,308
-E06000049,Cheshire East,-8,0
-E06000049,Cheshire East,1,95796
-E06000049,Cheshire East,2,55229
-E06000049,Cheshire East,3,19584
-E06000049,Cheshire East,4,4086
-E06000049,Cheshire East,5,161
-E06000050,Cheshire West and Chester,-8,0
-E06000050,Cheshire West and Chester,1,80756
-E06000050,Cheshire West and Chester,2,49835
-E06000050,Cheshire West and Chester,3,19598
-E06000050,Cheshire West and Chester,4,4721
-E06000050,Cheshire West and Chester,5,246
-E06000051,Shropshire,-8,0
-E06000051,Shropshire,1,70872
-E06000051,Shropshire,2,47508
-E06000051,Shropshire,3,17359
-E06000051,Shropshire,4,3697
-E06000051,Shropshire,5,143
-E06000052,Cornwall,-8,0
-E06000052,Cornwall,1,115522
-E06000052,Cornwall,2,88881
-E06000052,Cornwall,3,36692
-E06000052,Cornwall,4,8750
-E06000052,Cornwall,5,690
-E06000053,Isles of Scilly,-8,0
-E06000053,Isles of Scilly,1,478
-E06000053,Isles of Scilly,2,337
-E06000053,Isles of Scilly,3,106
-E06000053,Isles of Scilly,4,21
-E06000053,Isles of Scilly,5,0
-E06000054,Wiltshire,-8,0
-E06000054,Wiltshire,1,114886
-E06000054,Wiltshire,2,70924
-E06000054,Wiltshire,3,24198
-E06000054,Wiltshire,4,4848
-E06000054,Wiltshire,5,225
-E06000055,Bedford,-8,0
-E06000055,Bedford,1,38704
-E06000055,Bedford,2,24497
-E06000055,Bedford,3,9293
-E06000055,Bedford,4,2224
-E06000055,Bedford,5,232
-E06000056,Central Bedfordshire,-8,0
-E06000056,Central Bedfordshire,1,66142
-E06000056,Central Bedfordshire,2,38934
-E06000056,Central Bedfordshire,3,12938
-E06000056,Central Bedfordshire,4,2607
-E06000056,Central Bedfordshire,5,133
-E06000057,Northumberland,-8,0
-E06000057,Northumberland,1,71280
-E06000057,Northumberland,2,49905
-E06000057,Northumberland,3,20510
-E06000057,Northumberland,4,5035
-E06000057,Northumberland,5,191
-E06000058,"Bournemouth, Christchurch and Poole",-8,0
-E06000058,Bournemouth Christchurch and Poole,1,83966
-E06000058,Bournemouth Christchurch and Poole,2,59166
-E06000058,Bournemouth Christchurch and Poole,3,24231
-E06000058,Bournemouth  Christchurch and Poole,4,5889
-E06000058,Bournemouth Christchurch and Poole,5,590
-E06000059,Dorset,-8,0
-E06000059,Dorset,1,84472
-E06000059,Dorset,2,59229
-E06000059,Dorset,3,21130
-E06000059,Dorset,4,4136
-E06000059,Dorset,5,291
-E06000060,Buckinghamshire,-8,0
-E06000060,Buckinghamshire,1,125932
-E06000060,Buckinghamshire,2,68311
-E06000060,Buckinghamshire,3,21635
-E06000060,Buckinghamshire,4,4208
-E06000060,Buckinghamshire,5,242
-E06000061,North Northamptonshire,-8,0
-E06000061,North Northamptonshire,1,72737
-E06000061,North Northamptonshire,2,50657
-E06000061,North Northamptonshire,3,20356
-E06000061,North Northamptonshire,4,4918
-E06000061,North Northamptonshire,5,248
-E06000062,West Northamptonshire,-8,0
-E06000062,West Northamptonshire,1,89483
-E06000062,West Northamptonshire,2,57289
-E06000062,West Northamptonshire,3,20930
-E06000062,West Northamptonshire,4,4659
-E06000062,West Northamptonshire,5,280
-E07000008,Cambridge,-8,0
-E07000008,Cambridge,1,29648
-E07000008,Cambridge,2,15867
-E07000008,Cambridge,3,5485
-E07000008,Cambridge,4,1390
-E07000008,Cambridge,5,82
-E07000009,East Cambridgeshire,-8,0
-E07000009,East Cambridgeshire,1,19868
-E07000009,East Cambridgeshire,2,12385
-E07000009,East Cambridgeshire,3,4128
-E07000009,East Cambridgeshire,4,790
-E07000009,East Cambridgeshire,5,30
-E07000010,Fenland,-8,0
-E07000010,Fenland,1,18370
-E07000010,Fenland,2,16471
-E07000010,Fenland,3,7442
-E07000010,Fenland,4,1702
-E07000010,Fenland,5,99
-E07000011,Huntingdonshire,-8,0
-E07000011,Huntingdonshire,1,41205
-E07000011,Huntingdonshire,2,25319
-E07000011,Huntingdonshire,3,8576
-E07000011,Huntingdonshire,4,1699
-E07000011,Huntingdonshire,5,82
-E07000012,South Cambridgeshire,-8,0
-E07000012,South Cambridgeshire,1,39133
-E07000012,South Cambridgeshire,2,20695
-E07000012,South Cambridgeshire,3,6077
-E07000012,South Cambridgeshire,4,1055
-E07000012,South Cambridgeshire,5,36
-E07000026,Allerdale,-8,0
-E07000026,Allerdale,1,21136
-E07000026,Allerdale,2,14953
-E07000026,Allerdale,3,6232
-E07000026,Allerdale,4,1602
-E07000026,Allerdale,5,50
-E07000027,Barrow-in-Furness,-8,0
-E07000027,Barrow-in-Furness,1,14599
-E07000027,Barrow-in-Furness,2,10261
-E07000027,Barrow-in-Furness,3,4943
-E07000027,Barrow-in-Furness,4,1397
-E07000027,Barrow-in-Furness,5,59
-E07000028,Carlisle,-8,0
-E07000028,Carlisle,1,24765
-E07000028,Carlisle,2,17046
-E07000028,Carlisle,3,6974
-E07000028,Carlisle,4,1811
-E07000028,Carlisle,5,66
-E07000029,Copeland,-8,0
-E07000029,Copeland,1,14486
-E07000029,Copeland,2,10219
-E07000029,Copeland,3,4677
-E07000029,Copeland,4,1362
-E07000029,Copeland,5,47
-E07000030,Eden,-8,0
-E07000030,Eden,1,12769
-E07000030,Eden,2,8560
-E07000030,Eden,3,2730
-E07000030,Eden,4,532
-E07000030,Eden,5,22
-E07000031,South Lakeland,-8,0
-E07000031,South Lakeland,1,26245
-E07000031,South Lakeland,2,15748
-E07000031,South Lakeland,3,4838
-E07000031,South Lakeland,4,793
-E07000031,South Lakeland,5,33
-E07000032,Amber Valley,-8,0
-E07000032,Amber Valley,1,27520
-E07000032,Amber Valley,2,18893
-E07000032,Amber Valley,3,7864
-E07000032,Amber Valley,4,1926
-E07000032,Amber Valley,5,75
-E07000033,Bolsover,-8,0
-E07000033,Bolsover,1,15065
-E07000033,Bolsover,2,12160
-E07000033,Bolsover,3,6318
-E07000033,Bolsover,4,1672
-E07000033,Bolsover,5,46
-E07000034,Chesterfield,-8,0
-E07000034,Chesterfield,1,21488
-E07000034,Chesterfield,2,16437
-E07000034,Chesterfield,3,7884
-E07000034,Chesterfield,4,2148
-E07000034,Chesterfield,5,101
-E07000035,Derbyshire Dales,-8,0
-E07000035,Derbyshire Dales,1,17089
-E07000035,Derbyshire Dales,2,10764
-E07000035,Derbyshire Dales,3,3770
-E07000035,Derbyshire Dales,4,625
-E07000035,Derbyshire Dales,5,36
-E07000036,Erewash,-8,0
-E07000036,Erewash,1,24179
-E07000036,Erewash,2,17054
-E07000036,Erewash,3,7164
-E07000036,Erewash,4,1858
-E07000036,Erewash,5,79
-E07000037,High Peak,-8,0
-E07000037,High Peak,1,21222
-E07000037,High Peak,2,13356
-E07000037,High Peak,3,5024
-E07000037,High Peak,4,1123
-E07000037,High Peak,5,47
-E07000038,North East Derbyshire,-8,0
-E07000038,North East Derbyshire,1,21613
-E07000038,North East Derbyshire,2,15772
-E07000038,North East Derbyshire,3,6916
-E07000038,North East Derbyshire,4,1620
-E07000038,North East Derbyshire,5,66
-E07000039,South Derbyshire,-8,0
-E07000039,South Derbyshire,1,24546
-E07000039,South Derbyshire,2,14303
-E07000039,South Derbyshire,3,5298
-E07000039,South Derbyshire,4,1057
-E07000039,South Derbyshire,5,35
-E07000040,East Devon,-8,0
-E07000040,East Devon,1,33888
-E07000040,East Devon,2,23621
-E07000040,East Devon,3,7809
-E07000040,East Devon,4,1385
-E07000040,East Devon,5,85
-E07000041,Exeter,-8,0
-E07000041,Exeter,1,26181
-E07000041,Exeter,2,17439
-E07000041,Exeter,3,7025
-E07000041,Exeter,4,1779
-E07000041,Exeter,5,130
-E07000042,Mid Devon,-8,0
-E07000042,Mid Devon,1,17503
-E07000042,Mid Devon,2,12501
-E07000042,Mid Devon,3,4648
-E07000042,Mid Devon,4,937
-E07000042,Mid Devon,5,47
-E07000043,North Devon,-8,0
-E07000043,North Devon,1,20705
-E07000043,North Devon,2,15124
-E07000043,North Devon,3,6010
-E07000043,North Devon,4,1268
-E07000043,North Devon,5,90
-E07000044,South Hams,-8,0
-E07000044,South Hams,1,20843
-E07000044,South Hams,2,13180
-E07000044,South Hams,3,4431
-E07000044,South Hams,4,830
-E07000044,South Hams,5,51
-E07000045,Teignbridge,-8,0
-E07000045,Teignbridge,1,29571
-E07000045,Teignbridge,2,20916
-E07000045,Teignbridge,3,7761
-E07000045,Teignbridge,4,1483
-E07000045,Teignbridge,5,107
-E07000046,Torridge,-8,0
-E07000046,Torridge,1,14051
-E07000046,Torridge,2,10950
-E07000046,Torridge,3,4491
-E07000046,Torridge,4,907
-E07000046,Torridge,5,60
-E07000047,West Devon,-8,0
-E07000047,West Devon,1,12236
-E07000047,West Devon,2,8733
-E07000047,West Devon,3,3176
-E07000047,West Devon,4,620
-E07000047,West Devon,5,53
-E07000061,Eastbourne,-8,0
-E07000061,Eastbourne,1,19705
-E07000061,Eastbourne,2,16400
-E07000061,Eastbourne,3,7386
-E07000061,Eastbourne,4,1882
-E07000061,Eastbourne,5,236
-E07000062,Hastings,-8,0
-E07000062,Hastings,1,17007
-E07000062,Hastings,2,14173
-E07000062,Hastings,3,7001
-E07000062,Hastings,4,2076
-E07000062,Hastings,5,193
-E07000063,Lewes,-8,0
-E07000063,Lewes,1,20934
-E07000063,Lewes,2,15304
-E07000063,Lewes,3,5977
-E07000063,Lewes,4,1367
-E07000063,Lewes,5,106
-E07000064,Rother,-8,0
-E07000064,Rother,1,19251
-E07000064,Rother,2,15475
-E07000064,Rother,3,6112
-E07000064,Rother,4,1192
-E07000064,Rother,5,72
-E07000065,Wealden,-8,0
-E07000065,Wealden,1,35828
-E07000065,Wealden,2,23388
-E07000065,Wealden,3,7707
-E07000065,Wealden,4,1287
-E07000065,Wealden,5,55
-E07000066,Basildon,-8,0
-E07000066,Basildon,1,35257
-E07000066,Basildon,2,26222
-E07000066,Basildon,3,11652
-E07000066,Basildon,4,3011
-E07000066,Basildon,5,221
-E07000067,Braintree,-8,0
-E07000067,Braintree,1,32486
-E07000067,Braintree,2,22192
-E07000067,Braintree,3,8442
-E07000067,Braintree,4,1768
-E07000067,Braintree,5,96
-E07000068,Brentwood,-8,0
-E07000068,Brentwood,1,17935
-E07000068,Brentwood,2,10172
-E07000068,Brentwood,3,3465
-E07000068,Brentwood,4,716
-E07000068,Brentwood,5,54
-E07000069,Castle Point,-8,0
-E07000069,Castle Point,1,16388
-E07000069,Castle Point,2,13761
-E07000069,Castle Point,3,5898
-E07000069,Castle Point,4,1265
-E07000069,Castle Point,5,77
-E07000070,Chelmsford,-8,0
-E07000070,Chelmsford,1,41147
-E07000070,Chelmsford,2,24302
-E07000070,Chelmsford,3,8170
-E07000070,Chelmsford,4,1694
-E07000070,Chelmsford,5,90
-E07000071,Colchester,-8,0
-E07000071,Colchester,1,40941
-E07000071,Colchester,2,26500
-E07000071,Colchester,3,9832
-E07000071,Colchester,4,2292
-E07000071,Colchester,5,145
-E07000072,Epping Forest,-8,0
-E07000072,Epping Forest,1,27885
-E07000072,Epping Forest,2,18102
-E07000072,Epping Forest,3,6906
-E07000072,Epping Forest,4,1560
-E07000072,Epping Forest,5,104
-E07000073,Harlow,-8,0
-E07000073,Harlow,1,16252
-E07000073,Harlow,2,13397
-E07000073,Harlow,3,6350
-E07000073,Harlow,4,1669
-E07000073,Harlow,5,188
-E07000074,Maldon,-8,0
-E07000074,Maldon,1,13842
-E07000074,Maldon,2,9688
-E07000074,Maldon,3,3587
-E07000074,Maldon,4,754
-E07000074,Maldon,5,29
-E07000075,Rochford,-8,0
-E07000075,Rochford,1,17569
-E07000075,Rochford,2,12393
-E07000075,Rochford,3,4779
-E07000075,Rochford,4,765
-E07000075,Rochford,5,51
-E07000076,Tendring,-8,0
-E07000076,Tendring,1,25858
-E07000076,Tendring,2,25422
-E07000076,Tendring,3,12755
-E07000076,Tendring,4,3171
-E07000076,Tendring,5,244
-E07000077,Uttlesford,-8,0
-E07000077,Uttlesford,1,21451
-E07000077,Uttlesford,2,11364
-E07000077,Uttlesford,3,3506
-E07000077,Uttlesford,4,611
-E07000077,Uttlesford,5,25
-E07000078,Cheltenham,-8,0
-E07000078,Cheltenham,1,29708
-E07000078,Cheltenham,2,16236
-E07000078,Cheltenham,3,5613
-E07000078,Cheltenham,4,1260
-E07000078,Cheltenham,5,82
-E07000079,Cotswold,-8,0
-E07000079,Cotswold,1,23145
-E07000079,Cotswold,2,12909
-E07000079,Cotswold,3,3852
-E07000079,Cotswold,4,666
-E07000079,Cotswold,5,25
-E07000080,Forest of Dean,-8,0
-E07000080,Forest of Dean,1,17898
-E07000080,Forest of Dean,2,12961
-E07000080,Forest of Dean,3,5208
-E07000080,Forest of Dean,4,1101
-E07000080,Forest of Dean,5,49
-E07000081,Gloucester,-8,0
-E07000081,Gloucester,1,27115
-E07000081,Gloucester,2,18696
-E07000081,Gloucester,3,7514
-E07000081,Gloucester,4,1928
-E07000081,Gloucester,5,154
-E07000082,Stroud,-8,0
-E07000082,Stroud,1,28891
-E07000082,Stroud,2,16912
-E07000082,Stroud,3,5425
-E07000082,Stroud,4,1093
-E07000082,Stroud,5,57
-E07000083,Tewkesbury,-8,0
-E07000083,Tewkesbury,1,22543
-E07000083,Tewkesbury,2,13270
-E07000083,Tewkesbury,3,4277
-E07000083,Tewkesbury,4,797
-E07000083,Tewkesbury,5,44
-E07000084,Basingstoke and Deane,-8,0
-E07000084,Basingstoke and Deane,1,42182
-E07000084,Basingstoke and Deane,2,24524
-E07000084,Basingstoke and Deane,3,8202
-E07000084,Basingstoke and Deane,4,1650
-E07000084,Basingstoke and Deane,5,86
-E07000085,East Hampshire,-8,0
-E07000085,East Hampshire,1,30044
-E07000085,East Hampshire,2,16634
-E07000085,East Hampshire,3,5006
-E07000085,East Hampshire,4,973
-E07000085,East Hampshire,5,61
-E07000086,Eastleigh,-8,0
-E07000086,Eastleigh,1,31397
-E07000086,Eastleigh,2,18289
-E07000086,Eastleigh,3,6032
-E07000086,Eastleigh,4,1150
-E07000086,Eastleigh,5,54
-E07000087,Fareham,-8,0
-E07000087,Fareham,1,26566
-E07000087,Fareham,2,16065
-E07000087,Fareham,3,5161
-E07000087,Fareham,4,800
-E07000087,Fareham,5,47
-E07000088,Gosport,-8,0
-E07000088,Gosport,1,16523
-E07000088,Gosport,2,12813
-E07000088,Gosport,3,5305
-E07000088,Gosport,4,1208
-E07000088,Gosport,5,73
-E07000089,Hart,-8,0
-E07000089,Hart,1,24252
-E07000089,Hart,2,11899
-E07000089,Hart,3,3264
-E07000089,Hart,4,526
-E07000089,Hart,5,23
-E07000090,Havant,-8,0
-E07000090,Havant,1,24402
-E07000090,Havant,2,18946
-E07000090,Havant,3,8020
-E07000090,Havant,4,2020
-E07000090,Havant,5,201
-E07000091,New Forest,-8,0
-E07000091,New Forest,1,39907
-E07000091,New Forest,2,26596
-E07000091,New Forest,3,9265
-E07000091,New Forest,4,1671
-E07000091,New Forest,5,127
-E07000092,Rushmoor,-8,0
-E07000092,Rushmoor,1,20081
-E07000092,Rushmoor,2,12889
-E07000092,Rushmoor,3,5038
-E07000092,Rushmoor,4,1212
-E07000092,Rushmoor,5,84
-E07000093,Test Valley,-8,0
-E07000093,Test Valley,1,30460
-E07000093,Test Valley,2,17505
-E07000093,Test Valley,3,5573
-E07000093,Test Valley,4,1116
-E07000093,Test Valley,5,53
-E07000094,Winchester,-8,0
-E07000094,Winchester,1,30153
-E07000094,Winchester,2,15705
-E07000094,Winchester,3,4907
-E07000094,Winchester,4,894
-E07000094,Winchester,5,56
-E07000095,Broxbourne,-8,0
-E07000095,Broxbourne,1,18526
-E07000095,Broxbourne,2,13972
-E07000095,Broxbourne,3,5813
-E07000095,Broxbourne,4,1403
-E07000095,Broxbourne,5,136
-E07000096,Dacorum,-8,0
-E07000096,Dacorum,1,34197
-E07000096,Dacorum,2,20159
-E07000096,Dacorum,3,7241
-E07000096,Dacorum,4,1673
-E07000096,Dacorum,5,142
-E07000098,Hertsmere,-8,0
-E07000098,Hertsmere,1,22141
-E07000098,Hertsmere,2,14147
-E07000098,Hertsmere,3,5171
-E07000098,Hertsmere,4,1147
-E07000098,Hertsmere,5,76
-E07000099,North Hertfordshire,-8,0
-E07000099,North Hertfordshire,1,31231
-E07000099,North Hertfordshire,2,17898
-E07000099,North Hertfordshire,3,6259
-E07000099,North Hertfordshire,4,1261
-E07000099,North Hertfordshire,5,83
-E07000102,Three Rivers,-8,0
-E07000102,Three Rivers,1,20394
-E07000102,Three Rivers,2,11586
-E07000102,Three Rivers,3,3985
-E07000102,Three Rivers,4,814
-E07000102,Three Rivers,5,81
-E07000103,Watford,-8,0
-E07000103,Watford,1,20051
-E07000103,Watford,2,13115
-E07000103,Watford,3,5091
-E07000103,Watford,4,1264
-E07000103,Watford,5,107
-E07000105,Ashford,-8,0
-E07000105,Ashford,1,26784
-E07000105,Ashford,2,18085
-E07000105,Ashford,3,7081
-E07000105,Ashford,4,1528
-E07000105,Ashford,5,105
-E07000106,Canterbury,-8,0
-E07000106,Canterbury,1,30170
-E07000106,Canterbury,2,22294
-E07000106,Canterbury,3,9079
-E07000106,Canterbury,4,2092
-E07000106,Canterbury,5,157
-E07000107,Dartford,-8,0
-E07000107,Dartford,1,23846
-E07000107,Dartford,2,14682
-E07000107,Dartford,3,5787
-E07000107,Dartford,4,1282
-E07000107,Dartford,5,99
-E07000108,Dover,-8,0
-E07000108,Dover,1,22821
-E07000108,Dover,2,17679
-E07000108,Dover,3,8002
-E07000108,Dover,4,1918
-E07000108,Dover,5,127
-E07000109,Gravesham,-8,0
-E07000109,Gravesham,1,18835
-E07000109,Gravesham,2,14736
-E07000109,Gravesham,3,6385
-E07000109,Gravesham,4,1626
-E07000109,Gravesham,5,142
-E07000110,Maidstone,-8,0
-E07000110,Maidstone,1,36704
-E07000110,Maidstone,2,23765
-E07000110,Maidstone,3,8647
-E07000110,Maidstone,4,1937
-E07000110,Maidstone,5,156
-E07000111,Sevenoaks,-8,0
-E07000111,Sevenoaks,1,26797
-E07000111,Sevenoaks,2,15559
-E07000111,Sevenoaks,3,5399
-E07000111,Sevenoaks,4,1193
-E07000111,Sevenoaks,5,65
-E07000112,Folkestone and Hythe,-8,0
-E07000112,Folkestone and Hythe,1,21473
-E07000112,Folkestone and Hythe,2,17142
-E07000112,Folkestone and Hythe,3,7645
-E07000112,Folkestone and Hythe,4,1919
-E07000112,Folkestone and Hythe,5,159
-E07000113,Swale,-8,0
-E07000113,Swale,1,26811
-E07000113,Swale,2,21299
-E07000113,Swale,3,9541
-E07000113,Swale,4,2675
-E07000113,Swale,5,168
-E07000114,Thanet,-8,0
-E07000114,Thanet,1,25596
-E07000114,Thanet,2,22482
-E07000114,Thanet,3,10956
-E07000114,Thanet,4,2910
-E07000114,Thanet,5,256
-E07000115,Tonbridge and Malling,-8,0
-E07000115,Tonbridge and Malling,1,28883
-E07000115,Tonbridge and Malling,2,17151
-E07000115,Tonbridge and Malling,3,6164
-E07000115,Tonbridge and Malling,4,1314
-E07000115,Tonbridge and Malling,5,63
-E07000116,Tunbridge Wells,-8,0
-E07000116,Tunbridge Wells,1,26644
-E07000116,Tunbridge Wells,2,14989
-E07000116,Tunbridge Wells,3,5298
-E07000116,Tunbridge Wells,4,1188
-E07000116,Tunbridge Wells,5,104
-E07000117,Burnley,-8,0
-E07000117,Burnley,1,16305
-E07000117,Burnley,2,13669
-E07000117,Burnley,3,7316
-E07000117,Burnley,4,2440
-E07000117,Burnley,5,142
-E07000118,Chorley,-8,0
-E07000118,Chorley,1,26340
-E07000118,Chorley,2,16325
-E07000118,Chorley,3,6015
-E07000118,Chorley,4,1406
-E07000118,Chorley,5,46
-E07000119,Fylde,-8,0
-E07000119,Fylde,1,19108
-E07000119,Fylde,2,12754
-E07000119,Fylde,3,4648
-E07000119,Fylde,4,1030
-E07000119,Fylde,5,64
-E07000120,Hyndburn,-8,0
-E07000120,Hyndburn,1,14766
-E07000120,Hyndburn,2,11847
-E07000120,Hyndburn,3,6092
-E07000120,Hyndburn,4,1985
-E07000120,Hyndburn,5,100
-E07000121,Lancaster,-8,0
-E07000121,Lancaster,1,29026
-E07000121,Lancaster,2,20314
-E07000121,Lancaster,3,8383
-E07000121,Lancaster,4,2132
-E07000121,Lancaster,5,124
-E07000122,Pendle,-8,0
-E07000122,Pendle,1,16180
-E07000122,Pendle,2,13333
-E07000122,Pendle,3,6450
-E07000122,Pendle,4,1999
-E07000122,Pendle,5,104
-E07000123,Preston,-8,0
-E07000123,Preston,1,27785
-E07000123,Preston,2,20032
-E07000123,Preston,3,8931
-E07000123,Preston,4,2700
-E07000123,Preston,5,159
-E07000124,Ribble Valley,-8,0
-E07000124,Ribble Valley,1,15673
-E07000124,Ribble Valley,2,8156
-E07000124,Ribble Valley,3,2455
-E07000124,Ribble Valley,4,436
-E07000124,Ribble Valley,5,27
-E07000125,Rossendale,-8,0
-E07000125,Rossendale,1,14666
-E07000125,Rossendale,2,10071
-E07000125,Rossendale,3,4496
-E07000125,Rossendale,4,1270
-E07000125,Rossendale,5,58
-E07000126,South Ribble,-8,0
-E07000126,South Ribble,1,25461
-E07000126,South Ribble,2,16043
-E07000126,South Ribble,3,5871
-E07000126,South Ribble,4,1158
-E07000126,South Ribble,5,55
-E07000127,West Lancashire,-8,0
-E07000127,West Lancashire,1,23639
-E07000127,West Lancashire,2,16442
-E07000127,West Lancashire,3,6818
-E07000127,West Lancashire,4,1567
-E07000127,West Lancashire,5,67
-E07000128,Wyre,-8,0
-E07000128,Wyre,1,23366
-E07000128,Wyre,2,17707
-E07000128,Wyre,3,7793
-E07000128,Wyre,4,1813
-E07000128,Wyre,5,88
-E07000129,Blaby,-8,0
-E07000129,Blaby,1,22832
-E07000129,Blaby,2,13991
-E07000129,Blaby,3,4903
-E07000129,Blaby,4,823
-E07000129,Blaby,5,26
-E07000130,Charnwood,-8,0
-E07000130,Charnwood,1,39071
-E07000130,Charnwood,2,23883
-E07000130,Charnwood,3,8869
-E07000130,Charnwood,4,1885
-E07000130,Charnwood,5,77
-E07000131,Harborough,-8,0
-E07000131,Harborough,1,23390
-E07000131,Harborough,2,12472
-E07000131,Harborough,3,3898
-E07000131,Harborough,4,625
-E07000131,Harborough,5,28
-E07000132,Hinckley and Bosworth,-8,0
-E07000132,Hinckley and Bosworth,1,25421
-E07000132,Hinckley and Bosworth,2,16657
-E07000132,Hinckley and Bosworth,3,6114
-E07000132,Hinckley and Bosworth,4,1200
-E07000132,Hinckley and Bosworth,5,53
-E07000133,Melton,-8,0
-E07000133,Melton,1,11989
-E07000133,Melton,2,7627
-E07000133,Melton,3,2517
-E07000133,Melton,4,439
-E07000133,Melton,5,25
-E07000134,North West Leicestershire,-8,0
-E07000134,North West Leicestershire,1,23178
-E07000134,North West Leicestershire,2,14910
-E07000134,North West Leicestershire,3,5672
-E07000134,North West Leicestershire,4,1161
-E07000134,North West Leicestershire,5,52
-E07000135,Oadby and Wigston,-8,0
-E07000135,Oadby and Wigston,1,11109
-E07000135,Oadby and Wigston,2,7829
-E07000135,Oadby and Wigston,3,3091
-E07000135,Oadby and Wigston,4,549
-E07000135,Oadby and Wigston,5,37
-E07000136,Boston,-8,0
-E07000136,Boston,1,12014
-E07000136,Boston,2,11351
-E07000136,Boston,3,4775
-E07000136,Boston,4,1181
-E07000136,Boston,5,83
-E07000137,East Lindsey,-8,0
-E07000137,East Lindsey,1,25757
-E07000137,East Lindsey,2,23906
-E07000137,East Lindsey,3,11962
-E07000137,East Lindsey,4,2954
-E07000137,East Lindsey,5,175
-E07000138,Lincoln,-8,0
-E07000138,Lincoln,1,19193
-E07000138,Lincoln,2,14648
-E07000138,Lincoln,3,6678
-E07000138,Lincoln,4,1865
-E07000138,Lincoln,5,122
-E07000139,North Kesteven,-8,0
-E07000139,North Kesteven,1,26651
-E07000139,North Kesteven,2,17158
-E07000139,North Kesteven,3,6082
-E07000139,North Kesteven,4,1062
-E07000139,North Kesteven,5,36
-E07000140,South Holland,-8,0
-E07000140,South Holland,1,17927
-E07000140,South Holland,2,15205
-E07000140,South Holland,3,6323
-E07000140,South Holland,4,1193
-E07000140,South Holland,5,55
-E07000141,South Kesteven,-8,0
-E07000141,South Kesteven,1,32490
-E07000141,South Kesteven,2,21181
-E07000141,South Kesteven,3,7674
-E07000141,South Kesteven,4,1445
-E07000141,South Kesteven,5,60
-E07000142,West Lindsey,-8,0
-E07000142,West Lindsey,1,20854
-E07000142,West Lindsey,2,14460
-E07000142,West Lindsey,3,5705
-E07000142,West Lindsey,4,1273
-E07000142,West Lindsey,5,54
-E07000143,Breckland,-8,0
-E07000143,Breckland,1,27457
-E07000143,Breckland,2,22262
-E07000143,Breckland,3,8786
-E07000143,Breckland,4,1773
-E07000143,Breckland,5,83
-E07000144,Broadland,-8,0
-E07000144,Broadland,1,29450
-E07000144,Broadland,2,19966
-E07000144,Broadland,3,7131
-E07000144,Broadland,4,1170
-E07000144,Broadland,5,42
-E07000145,Great Yarmouth,-8,0
-E07000145,Great Yarmouth,1,16995
-E07000145,Great Yarmouth,2,16376
-E07000145,Great Yarmouth,3,8526
-E07000145,Great Yarmouth,4,2471
-E07000145,Great Yarmouth,5,176
-E07000146,King's Lynn and West Norfolk,-8,0
-E07000146,King's Lynn and West Norfolk,1,29662
-E07000146,King's Lynn and West Norfolk,2,24812
-E07000146,King's Lynn and West Norfolk,3,10524
-E07000146,King's Lynn and West Norfolk,4,2330
-E07000146,King's Lynn and West Norfolk,5,136
-E07000147,North Norfolk,-8,0
-E07000147,North Norfolk,1,21480
-E07000147,North Norfolk,2,18213
-E07000147,North Norfolk,3,7186
-E07000147,North Norfolk,4,1413
-E07000147,North Norfolk,5,82
-E07000148,Norwich,-8,0
-E07000148,Norwich,1,28982
-E07000148,Norwich,2,22168
-E07000148,Norwich,3,10055
-E07000148,Norwich,4,3052
-E07000148,Norwich,5,202
-E07000149,South Norfolk,-8,0
-E07000149,South Norfolk,1,31718
-E07000149,South Norfolk,2,21228
-E07000149,South Norfolk,3,7114
-E07000149,South Norfolk,4,1261
-E07000149,South Norfolk,5,61
-E07000163,Craven,-8,0
-E07000163,Craven,1,14396
-E07000163,Craven,2,8453
-E07000163,Craven,3,2698
-E07000163,Craven,4,502
-E07000163,Craven,5,19
-E07000164,Hambleton,-8,0
-E07000164,Hambleton,1,22331
-E07000164,Hambleton,2,13356
-E07000164,Hambleton,3,4340
-E07000164,Hambleton,4,750
-E07000164,Hambleton,5,25
-E07000165,Harrogate,-8,0
-E07000165,Harrogate,1,40757
-E07000165,Harrogate,2,22257
-E07000165,Harrogate,3,6828
-E07000165,Harrogate,4,1263
-E07000165,Harrogate,5,64
-E07000166,Richmondshire,-8,0
-E07000166,Richmondshire,1,11333
-E07000166,Richmondshire,2,7001
-E07000166,Richmondshire,3,2208
-E07000166,Richmondshire,4,389
-E07000166,Richmondshire,5,13
-E07000167,Ryedale,-8,0
-E07000167,Ryedale,1,12802
-E07000167,Ryedale,2,8555
-E07000167,Ryedale,3,2867
-E07000167,Ryedale,4,467
-E07000167,Ryedale,5,23
-E07000168,Scarborough,-8,0
-E07000168,Scarborough,1,23248
-E07000168,Scarborough,2,18045
-E07000168,Scarborough,3,7750
-E07000168,Scarborough,4,1933
-E07000168,Scarborough,5,149
-E07000169,Selby,-8,0
-E07000169,Selby,1,21428
-E07000169,Selby,2,12802
-E07000169,Selby,3,4455
-E07000169,Selby,4,839
-E07000169,Selby,5,36
-E07000170,Ashfield,-8,0
-E07000170,Ashfield,1,23517
-E07000170,Ashfield,2,18722
-E07000170,Ashfield,3,9613
-E07000170,Ashfield,4,2532
-E07000170,Ashfield,5,123
-E07000171,Bassetlaw,-8,0
-E07000171,Bassetlaw,1,24096
-E07000171,Bassetlaw,2,17652
-E07000171,Bassetlaw,3,7728
-E07000171,Bassetlaw,4,1912
-E07000171,Bassetlaw,5,73
-E07000172,Broxtowe,-8,0
-E07000172,Broxtowe,1,24190
-E07000172,Broxtowe,2,16338
-E07000172,Broxtowe,3,6398
-E07000172,Broxtowe,4,1384
-E07000172,Broxtowe,5,51
-E07000173,Gedling,-8,0
-E07000173,Gedling,1,26151
-E07000173,Gedling,2,16974
-E07000173,Gedling,3,6905
-E07000173,Gedling,4,1462
-E07000173,Gedling,5,59
-E07000174,Mansfield,-8,0
-E07000174,Mansfield,1,20410
-E07000174,Mansfield,2,16642
-E07000174,Mansfield,3,8443
-E07000174,Mansfield,4,2430
-E07000174,Mansfield,5,105
-E07000175,Newark and Sherwood,-8,0
-E07000175,Newark and Sherwood,1,26200
-E07000175,Newark and Sherwood,2,17841
-E07000175,Newark and Sherwood,3,7447
-E07000175,Newark and Sherwood,4,1743
-E07000175,Newark and Sherwood,5,98
-E07000176,Rushcliffe,-8,0
-E07000176,Rushcliffe,1,29124
-E07000176,Rushcliffe,2,15231
-E07000176,Rushcliffe,3,4752
-E07000176,Rushcliffe,4,754
-E07000176,Rushcliffe,5,21
-E07000177,Cherwell,-8,0
-E07000177,Cherwell,1,35653
-E07000177,Cherwell,2,21456
-E07000177,Cherwell,3,7160
-E07000177,Cherwell,4,1530
-E07000177,Cherwell,5,95
-E07000178,Oxford,-8,0
-E07000178,Oxford,1,28832
-E07000178,Oxford,2,17781
-E07000178,Oxford,3,6713
-E07000178,Oxford,4,1767
-E07000178,Oxford,5,146
-E07000179,South Oxfordshire,-8,0
-E07000179,South Oxfordshire,1,36075
-E07000179,South Oxfordshire,2,19008
-E07000179,South Oxfordshire,3,5413
-E07000179,South Oxfordshire,4,956
-E07000179,South Oxfordshire,5,45
-E07000180,Vale of White Horse,-8,0
-E07000180,Vale of White Horse,1,33434
-E07000180,Vale of White Horse,2,17813
-E07000180,Vale of White Horse,3,5252
-E07000180,Vale of White Horse,4,950
-E07000180,Vale of White Horse,5,49
-E07000181,West Oxfordshire,-8,0
-E07000181,West Oxfordshire,1,27166
-E07000181,West Oxfordshire,2,15276
-E07000181,West Oxfordshire,3,4656
-E07000181,West Oxfordshire,4,844
-E07000181,West Oxfordshire,5,40
-E07000187,Mendip,-8,0
-E07000187,Mendip,1,25860
-E07000187,Mendip,2,17103
-E07000187,Mendip,3,6059
-E07000187,Mendip,4,1211
-E07000187,Mendip,5,61
-E07000188,Sedgemoor,-8,0
-E07000188,Sedgemoor,1,25589
-E07000188,Sedgemoor,2,18944
-E07000188,Sedgemoor,3,7577
-E07000188,Sedgemoor,4,1703
-E07000188,Sedgemoor,5,91
-E07000189,South Somerset,-8,0
-E07000189,South Somerset,1,38321
-E07000189,South Somerset,2,26119
-E07000189,South Somerset,3,9454
-E07000189,South Somerset,4,1938
-E07000189,South Somerset,5,104
-E07000192,Cannock Chase,-8,0
-E07000192,Cannock Chase,1,19804
-E07000192,Cannock Chase,2,14699
-E07000192,Cannock Chase,3,7105
-E07000192,Cannock Chase,4,1784
-E07000192,Cannock Chase,5,65
-E07000193,East Staffordshire,-8,0
-E07000193,East Staffordshire,1,25318
-E07000193,East Staffordshire,2,17408
-E07000193,East Staffordshire,3,6879
-E07000193,East Staffordshire,4,1594
-E07000193,East Staffordshire,5,94
-E07000194,Lichfield,-8,0
-E07000194,Lichfield,1,23731
-E07000194,Lichfield,2,14968
-E07000194,Lichfield,3,5762
-E07000194,Lichfield,4,1109
-E07000194,Lichfield,5,60
-E07000195,Newcastle-under-Lyme,-8,0
-E07000195,Newcastle-under-Lyme,1,24983
-E07000195,Newcastle-under-Lyme,2,18223
-E07000195,Newcastle-under-Lyme,3,8190
-E07000195,Newcastle-under-Lyme,4,1947
-E07000195,Newcastle-under-Lyme,5,80
-E07000196,South Staffordshire,-8,0
-E07000196,South Staffordshire,1,23193
-E07000196,South Staffordshire,2,15515
-E07000196,South Staffordshire,3,6174
-E07000196,South Staffordshire,4,1204
-E07000196,South Staffordshire,5,35
-E07000197,Stafford,-8,0
-E07000197,Stafford,1,31816
-E07000197,Stafford,2,19638
-E07000197,Stafford,3,7075
-E07000197,Stafford,4,1440
-E07000197,Stafford,5,79
-E07000198,Staffordshire Moorlands,-8,0
-E07000198,Staffordshire Moorlands,1,20892
-E07000198,Staffordshire Moorlands,2,14469
-E07000198,Staffordshire Moorlands,3,5822
-E07000198,Staffordshire Moorlands,4,1149
-E07000198,Staffordshire Moorlands,5,23
-E07000199,Tamworth,-8,0
-E07000199,Tamworth,1,15032
-E07000199,Tamworth,2,11381
-E07000199,Tamworth,3,5225
-E07000199,Tamworth,4,1216
-E07000199,Tamworth,5,40
-E07000200,Babergh,-8,0
-E07000200,Babergh,1,20575
-E07000200,Babergh,2,13976
-E07000200,Babergh,3,4678
-E07000200,Babergh,4,933
-E07000200,Babergh,5,37
-E07000202,Ipswich,-8,0
-E07000202,Ipswich,1,26896
-E07000202,Ipswich,2,20605
-E07000202,Ipswich,3,9331
-E07000202,Ipswich,4,2519
-E07000202,Ipswich,5,156
-E07000203,Mid Suffolk,-8,0
-E07000203,Mid Suffolk,1,23134
-E07000203,Mid Suffolk,2,15119
-E07000203,Mid Suffolk,3,5145
-E07000203,Mid Suffolk,4,904
-E07000203,Mid Suffolk,5,41
-E07000207,Elmbridge,-8,0
-E07000207,Elmbridge,1,34389
-E07000207,Elmbridge,2,15626
-E07000207,Elmbridge,3,4642
-E07000207,Elmbridge,4,876
-E07000207,Elmbridge,5,54
-E07000208,Epsom and Ewell,-8,0
-E07000208,Epsom and Ewell,1,18039
-E07000208,Epsom and Ewell,2,9574
-E07000208,Epsom and Ewell,3,3057
-E07000208,Epsom and Ewell,4,596
-E07000208,Epsom and Ewell,5,55
-E07000209,Guildford,-8,0
-E07000209,Guildford,1,32183
-E07000209,Guildford,2,17103
-E07000209,Guildford,3,5312
-E07000209,Guildford,4,1074
-E07000209,Guildford,5,88
-E07000210,Mole Valley,-8,0
-E07000210,Mole Valley,1,21063
-E07000210,Mole Valley,2,11510
-E07000210,Mole Valley,3,3688
-E07000210,Mole Valley,4,794
-E07000210,Mole Valley,5,86
-E07000211,Reigate and Banstead,-8,0
-E07000211,Reigate and Banstead,1,34148
-E07000211,Reigate and Banstead,2,18454
-E07000211,Reigate and Banstead,3,5919
-E07000211,Reigate and Banstead,4,1230
-E07000211,Reigate and Banstead,5,98
-E07000212,Runnymede,-8,0
-E07000212,Runnymede,1,18603
-E07000212,Runnymede,2,11306
-E07000212,Runnymede,3,4106
-E07000212,Runnymede,4,773
-E07000212,Runnymede,5,50
-E07000213,Spelthorne,-8,0
-E07000213,Spelthorne,1,21283
-E07000213,Spelthorne,2,14028
-E07000213,Spelthorne,3,5260
-E07000213,Spelthorne,4,1145
-E07000213,Spelthorne,5,89
-E07000214,Surrey Heath,-8,0
-E07000214,Surrey Heath,1,20857
-E07000214,Surrey Heath,2,11192
-E07000214,Surrey Heath,3,3293
-E07000214,Surrey Heath,4,626
-E07000214,Surrey Heath,5,40
-E07000215,Tandridge,-8,0
-E07000215,Tandridge,1,19938
-E07000215,Tandridge,2,11272
-E07000215,Tandridge,3,3602
-E07000215,Tandridge,4,760
-E07000215,Tandridge,5,50
-E07000216,Waverley,-8,0
-E07000216,Waverley,1,31228
-E07000216,Waverley,2,15702
-E07000216,Waverley,3,4609
-E07000216,Waverley,4,864
-E07000216,Waverley,5,45
-E07000217,Woking,-8,0
-E07000217,Woking,1,23292
-E07000217,Woking,2,12851
-E07000217,Woking,3,4289
-E07000217,Woking,4,929
-E07000217,Woking,5,76
-E07000218,North Warwickshire,-8,0
-E07000218,North Warwickshire,1,13032
-E07000218,North Warwickshire,2,9634
-E07000218,North Warwickshire,3,3992
-E07000218,North Warwickshire,4,887
-E07000218,North Warwickshire,5,35
-E07000219,Nuneaton and Bedworth,-8,0
-E07000219,Nuneaton and Bedworth,1,25493
-E07000219,Nuneaton and Bedworth,2,19579
-E07000219,Nuneaton and Bedworth,3,9027
-E07000219,Nuneaton and Bedworth,4,2337
-E07000219,Nuneaton and Bedworth,5,150
-E07000220,Rugby,-8,0
-E07000220,Rugby,1,25096
-E07000220,Rugby,2,15539
-E07000220,Rugby,3,5231
-E07000220,Rugby,4,1106
-E07000220,Rugby,5,44
-E07000221,Stratford-on-Avon,-8,0
-E07000221,Stratford-on-Avon,1,33604
-E07000221,Stratford-on-Avon,2,18900
-E07000221,Stratford-on-Avon,3,5822
-E07000221,Stratford-on-Avon,4,1108
-E07000221,Stratford-on-Avon,5,30
-E07000222,Warwick,-8,0
-E07000222,Warwick,1,35954
-E07000222,Warwick,2,18917
-E07000222,Warwick,3,6230
-E07000222,Warwick,4,1406
-E07000222,Warwick,5,111
-E07000223,Adur,-8,0
-E07000223,Adur,1,12584
-E07000223,Adur,2,9872
-E07000223,Adur,3,4194
-E07000223,Adur,4,936
-E07000223,Adur,5,92
-E07000224,Arun,-8,0
-E07000224,Arun,1,33371
-E07000224,Arun,2,26510
-E07000224,Arun,3,10515
-E07000224,Arun,4,2074
-E07000224,Arun,5,193
-E07000225,Chichester,-8,0
-E07000225,Chichester,1,28937
-E07000225,Chichester,2,18012
-E07000225,Chichester,3,5917
-E07000225,Chichester,4,1184
-E07000225,Chichester,5,68
-E07000226,Crawley,-8,0
-E07000226,Crawley,1,20934
-E07000226,Crawley,2,15812
-E07000226,Crawley,3,6931
-E07000226,Crawley,4,1708
-E07000226,Crawley,5,119
-E07000227,Horsham,-8,0
-E07000227,Horsham,1,35372
-E07000227,Horsham,2,19802
-E07000227,Horsham,3,6037
-E07000227,Horsham,4,1071
-E07000227,Horsham,5,88
-E07000228,Mid Sussex,-8,0
-E07000228,Mid Sussex,1,36299
-E07000228,Mid Sussex,2,19835
-E07000228,Mid Sussex,3,6078
-E07000228,Mid Sussex,4,1068
-E07000228,Mid Sussex,5,69
-E07000229,Worthing,-8,0
-E07000229,Worthing,1,23654
-E07000229,Worthing,2,17226
-E07000229,Worthing,3,6875
-E07000229,Worthing,4,1599
-E07000229,Worthing,5,183
-E07000234,Bromsgrove,-8,0
-E07000234,Bromsgrove,1,22586
-E07000234,Bromsgrove,2,13220
-E07000234,Bromsgrove,3,4557
-E07000234,Bromsgrove,4,868
-E07000234,Bromsgrove,5,33
-E07000235,Malvern Hills,-8,0
-E07000235,Malvern Hills,1,18380
-E07000235,Malvern Hills,2,11642
-E07000235,Malvern Hills,3,4108
-E07000235,Malvern Hills,4,731
-E07000235,Malvern Hills,5,33
-E07000236,Redditch,-8,0
-E07000236,Redditch,1,17057
-E07000236,Redditch,2,12511
-E07000236,Redditch,3,5375
-E07000236,Redditch,4,1338
-E07000236,Redditch,5,97
-E07000237,Worcester,-8,0
-E07000237,Worcester,1,22399
-E07000237,Worcester,2,14795
-E07000237,Worcester,3,5865
-E07000237,Worcester,4,1553
-E07000237,Worcester,5,108
-E07000238,Wychavon,-8,0
-E07000238,Wychavon,1,29626
-E07000238,Wychavon,2,19350
-E07000238,Wychavon,3,6922
-E07000238,Wychavon,4,1375
-E07000238,Wychavon,5,83
-E07000239,Wyre Forest,-8,0
-E07000239,Wyre Forest,1,20798
-E07000239,Wyre Forest,2,15760
-E07000239,Wyre Forest,3,6928
-E07000239,Wyre Forest,4,1730
-E07000239,Wyre Forest,5,106
-E07000240,St Albans,-8,0
-E07000240,St Albans,1,35772
-E07000240,St Albans,2,17068
-E07000240,St Albans,3,5007
-E07000240,St Albans,4,1084
-E07000240,St Albans,5,59
-E07000241,Welwyn Hatfield,-8,0
-E07000241,Welwyn Hatfield,1,23806
-E07000241,Welwyn Hatfield,2,15375
-E07000241,Welwyn Hatfield,3,5712
-E07000241,Welwyn Hatfield,4,1240
-E07000241,Welwyn Hatfield,5,76
-E07000242,East Hertfordshire,-8,0
-E07000242,East Hertfordshire,1,35445
-E07000242,East Hertfordshire,2,19214
-E07000242,East Hertfordshire,3,6201
-E07000242,East Hertfordshire,4,1121
-E07000242,East Hertfordshire,5,40
-E07000243,Stevenage,-8,0
-E07000243,Stevenage,1,17418
-E07000243,Stevenage,2,12285
-E07000243,Stevenage,3,5349
-E07000243,Stevenage,4,1332
-E07000243,Stevenage,5,125
-E07000244,East Suffolk,-8,0
-E07000244,East Suffolk,1,51925
-E07000244,East Suffolk,2,39292
-E07000244,East Suffolk,3,15733
-E07000244,East Suffolk,4,3578
-E07000244,East Suffolk,5,219
-E07000245,West Suffolk,-8,0
-E07000245,West Suffolk,1,38855
-E07000245,West Suffolk,2,28245
-E07000245,West Suffolk,3,9611
-E07000245,West Suffolk,4,1926
-E07000245,West Suffolk,5,106
-E07000246,Somerset West and Taunton,-8,0
-E07000246,Somerset West and Taunton,1,35265
-E07000246,Somerset West and Taunton,2,23861
-E07000246,Somerset West and Taunton,3,8879
-E07000246,Somerset West and Taunton,4,1910
-E07000246,Somerset West and Taunton,5,71
-E08000001,Bolton,-8,0
-E08000001,Bolton,1,51290
-E08000001,Bolton,2,40539
-E08000001,Bolton,3,20373
-E08000001,Bolton,4,6244
-E08000001,Bolton,5,343
-E08000002,Bury,-8,0
-E08000002,Bury,1,38309
-E08000002,Bury,2,27078
-E08000002,Bury,3,11875
-E08000002,Bury,4,3263
-E08000002,Bury,5,170
-E08000003,Manchester,-8,0
-E08000003,Manchester,1,93533
-E08000003,Manchester,2,70524
-E08000003,Manchester,3,36937
-E08000003,Manchester,4,12983
-E08000003,Manchester,5,752
-E08000004,Oldham,-8,0
-E08000004,Oldham,1,38130
-E08000004,Oldham,2,32275
-E08000004,Oldham,3,16920
-E08000004,Oldham,4,5520
-E08000004,Oldham,5,292
-E08000005,Rochdale,-8,0
-E08000005,Rochdale,1,38481
-E08000005,Rochdale,2,30724
-E08000005,Rochdale,3,15621
-E08000005,Rochdale,4,5084
-E08000005,Rochdale,5,313
-E08000006,Salford,-8,0
-E08000006,Salford,1,53457
-E08000006,Salford,2,37170
-E08000006,Salford,3,18229
-E08000006,Salford,4,5963
-E08000006,Salford,5,297
-E08000007,Stockport,-8,0
-E08000007,Stockport,1,64926
-E08000007,Stockport,2,40720
-E08000007,Stockport,3,16441
-E08000007,Stockport,4,4294
-E08000007,Stockport,5,267
-E08000008,Tameside,-8,0
-E08000008,Tameside,1,42979
-E08000008,Tameside,2,34038
-E08000008,Tameside,3,17056
-E08000008,Tameside,4,5142
-E08000008,Tameside,5,312
-E08000009,Trafford,-8,0
-E08000009,Trafford,1,51885
-E08000009,Trafford,2,29699
-E08000009,Trafford,3,11666
-E08000009,Trafford,4,2883
-E08000009,Trafford,5,136
-E08000010,Wigan,-8,0
-E08000010,Wigan,1,66618
-E08000010,Wigan,2,46951
-E08000010,Wigan,3,22904
-E08000010,Wigan,4,6380
-E08000010,Wigan,5,252
-E08000011,Knowsley,-8,0
-E08000011,Knowsley,1,26952
-E08000011,Knowsley,2,21374
-E08000011,Knowsley,3,12688
-E08000011,Knowsley,4,4856
-E08000011,Knowsley,5,203
-E08000012,Liverpool,-8,0
-E08000012,Liverpool,1,86264
-E08000012,Liverpool,2,67761
-E08000012,Liverpool,3,38407
-E08000012,Liverpool,4,14386
-E08000012,Liverpool,5,673
-E08000013,St. Helens,-8,0
-E08000013,St. Helens,1,35793
-E08000013,St. Helens,2,27070
-E08000013,St. Helens,3,13852
-E08000013,St. Helens,4,4161
-E08000013,St. Helens,5,137
-E08000014,Sefton,-8,0
-E08000014,Sefton,1,55668
-E08000014,Sefton,2,41850
-E08000014,Sefton,3,19817
-E08000014,Sefton,4,5463
-E08000014,Sefton,5,275
-E08000015,Wirral,-8,0
-E08000015,Wirral,1,65530
-E08000015,Wirral,2,47854
-E08000015,Wirral,3,22925
-E08000015,Wirral,4,6645
-E08000015,Wirral,5,298
-E08000016,Barnsley,-8,0
-E08000016,Barnsley,1,46238
-E08000016,Barnsley,2,36682
-E08000016,Barnsley,3,19079
-E08000016,Barnsley,4,5815
-E08000016,Barnsley,5,239
-E08000017,Doncaster,-8,0
-E08000017,Doncaster,1,58391
-E08000017,Doncaster,2,46328
-E08000017,Doncaster,3,22336
-E08000017,Doncaster,4,6171
-E08000017,Doncaster,5,253
-E08000018,Rotherham,-8,0
-E08000018,Rotherham,1,49653
-E08000018,Rotherham,2,38666
-E08000018,Rotherham,3,19862
-E08000018,Rotherham,4,5520
-E08000018,Rotherham,5,224
-E08000019,Sheffield,-8,0
-E08000019,Sheffield,1,105238
-E08000019,Sheffield,2,78863
-E08000019,Sheffield,3,36628
-E08000019,Sheffield,4,10582
-E08000019,Sheffield,5,639
-E08000021,Newcastle upon Tyne,-8,0
-E08000021,Newcastle upon Tyne,1,56768
-E08000021,Newcastle upon Tyne,2,40169
-E08000021,Newcastle upon Tyne,3,19418
-E08000021,Newcastle upon Tyne,4,6149
-E08000021,Newcastle upon Tyne,5,293
-E08000022,North Tyneside,-8,0
-E08000022,North Tyneside,1,47576
-E08000022,North Tyneside,2,31265
-E08000022,North Tyneside,3,13730
-E08000022,North Tyneside,4,3546
-E08000022,North Tyneside,5,119
-E08000023,South Tyneside,-8,0
-E08000023,South Tyneside,1,29586
-E08000023,South Tyneside,2,23302
-E08000023,South Tyneside,3,11971
-E08000023,South Tyneside,4,3323
-E08000023,South Tyneside,5,105
-E08000024,Sunderland,-8,0
-E08000024,Sunderland,1,50665
-E08000024,Sunderland,2,42435
-E08000024,Sunderland,3,22163
-E08000024,Sunderland,4,6645
-E08000024,Sunderland,5,269
-E08000025,Birmingham,-8,0
-E08000025,Birmingham,1,171117
-E08000025,Birmingham,2,146765
-E08000025,Birmingham,3,78859
-E08000025,Birmingham,4,25045
-E08000025,Birmingham,5,1670
-E08000026,Coventry,-8,0
-E08000026,Coventry,1,60360
-E08000026,Coventry,2,45659
-E08000026,Coventry,3,21411
-E08000026,Coventry,4,6219
-E08000026,Coventry,5,491
-E08000027,Dudley,-8,0
-E08000027,Dudley,1,60524
-E08000027,Dudley,2,47358
-E08000027,Dudley,3,23098
-E08000027,Dudley,4,5837
-E08000027,Dudley,5,256
-E08000028,Sandwell,-8,0
-E08000028,Sandwell,1,49389
-E08000028,Sandwell,2,46055
-E08000028,Sandwell,3,26244
-E08000028,Sandwell,4,8161
-E08000028,Sandwell,5,395
-E08000029,Solihull,-8,0
-E08000029,Solihull,1,45378
-E08000029,Solihull,2,28916
-E08000029,Solihull,3,12109
-E08000029,Solihull,4,2915
-E08000029,Solihull,5,165
-E08000030,Walsall,-8,0
-E08000030,Walsall,1,45129
-E08000030,Walsall,2,39289
-E08000030,Walsall,3,21212
-E08000030,Walsall,4,6280
-E08000030,Walsall,5,316
-E08000031,Wolverhampton,-8,0
-E08000031,Wolverhampton,1,42414
-E08000031,Wolverhampton,2,37053
-E08000031,Wolverhampton,3,19711
-E08000031,Wolverhampton,4,5649
-E08000031,Wolverhampton,5,314
-E08000032,Bradford,-8,0
-E08000032,Bradford,1,90141
-E08000032,Bradford,2,72227
-E08000032,Bradford,3,35313
-E08000032,Bradford,4,11416
-E08000032,Bradford,5,770
-E08000033,Calderdale,-8,0
-E08000033,Calderdale,1,43225
-E08000033,Calderdale,2,29923
-E08000033,Calderdale,3,13398
-E08000033,Calderdale,4,3731
-E08000033,Calderdale,5,199
-E08000034,Kirklees,-8,0
-E08000034,Kirklees,1,82995
-E08000034,Kirklees,2,59593
-E08000034,Kirklees,3,27052
-E08000034,Kirklees,4,7881
-E08000034,Kirklees,5,469
-E08000035,Leeds,-8,0
-E08000035,Leeds,1,164958
-E08000035,Leeds,2,112338
-E08000035,Leeds,3,49084
-E08000035,Leeds,4,14124
-E08000035,Leeds,5,962
-E08000036,Wakefield,-8,0
-E08000036,Wakefield,1,68485
-E08000036,Wakefield,2,51797
-E08000036,Wakefield,3,25294
-E08000036,Wakefield,4,7240
-E08000036,Wakefield,5,260
-E08000037,Gateshead,-8,0
-E08000037,Gateshead,1,39877
-E08000037,Gateshead,2,29733
-E08000037,Gateshead,3,14850
-E08000037,Gateshead,4,4376
-E08000037,Gateshead,5,163
-E09000001,City of London,-8,0
-E09000001,City of London,1,2937
-E09000001,City of London,2,1547
-E09000001,City of London,3,347
-E09000001,City of London,4,75
-E09000001,City of London,5,8
-E09000002,Barking and Dagenham,-8,0
-E09000002,Barking and Dagenham,1,27781
-E09000002,Barking and Dagenham,2,27396
-E09000002,Barking and Dagenham,3,14090
-E09000002,Barking and Dagenham,4,4348
-E09000002,Barking and Dagenham,5,287
-E09000003,Barnet,-8,0
-E09000003,Barnet,1,73825
-E09000003,Barnet,2,49136
-E09000003,Barnet,3,19877
-E09000003,Barnet,4,5415
-E09000003,Barnet,5,668
-E09000004,Bexley,-8,0
-E09000004,Bexley,1,46238
-E09000004,Bexley,2,32625
-E09000004,Bexley,3,13232
-E09000004,Bexley,4,2998
-E09000004,Bexley,5,206
-E09000005,Brent,-8,0
-E09000005,Brent,1,47376
-E09000005,Brent,2,43300
-E09000005,Brent,3,21017
-E09000005,Brent,4,6328
-E09000005,Brent,5,591
-E09000006,Bromley,-8,0
-E09000006,Bromley,1,74219
-E09000006,Bromley,2,42434
-E09000006,Bromley,3,15360
-E09000006,Bromley,4,3586
-E09000006,Bromley,5,228
-E09000007,Camden,-8,0
-E09000007,Camden,1,44082
-E09000007,Camden,2,29601
-E09000007,Camden,3,13535
-E09000007,Camden,4,4938
-E09000007,Camden,5,603
-E09000008,Croydon,-8,0
-E09000008,Croydon,1,73406
-E09000008,Croydon,2,51772
-E09000008,Croydon,3,21635
-E09000008,Croydon,4,5581
-E09000008,Croydon,5,552
-E09000009,Ealing,-8,0
-E09000009,Ealing,1,61529
-E09000009,Ealing,2,45650
-E09000009,Ealing,3,20275
-E09000009,Ealing,4,5686
-E09000009,Ealing,5,518
-E09000010,Enfield,-8,0
-E09000010,Enfield,1,51013
-E09000010,Enfield,2,43120
-E09000010,Enfield,3,20209
-E09000010,Enfield,4,6012
-E09000010,Enfield,5,566
-E09000011,Greenwich,-8,0
-E09000011,Greenwich,1,55023
-E09000011,Greenwich,2,36622
-E09000011,Greenwich,3,16597
-E09000011,Greenwich,4,5382
-E09000011,Greenwich,5,428
-E09000012,Hackney,-8,0
-E09000012,Hackney,1,47686
-E09000012,Hackney,2,34486
-E09000012,Hackney,3,16971
-E09000012,Hackney,4,6333
-E09000012,Hackney,5,605
-E09000013,Hammersmith and Fulham,-8,0
-E09000013,Hammersmith and Fulham,1,41748
-E09000013,Hammersmith and Fulham,2,25243
-E09000013,Hammersmith and Fulham,3,10555
-E09000013,Hammersmith and Fulham,4,3319
-E09000013,Hammersmith and Fulham,5,379
-E09000014,Haringey,-8,0
-E09000014,Haringey,1,45524
-E09000014,Haringey,2,35580
-E09000014,Haringey,3,17629
-E09000014,Haringey,4,5755
-E09000014,Haringey,5,607
-E09000015,Harrow,-8,0
-E09000015,Harrow,1,43681
-E09000015,Harrow,2,30953
-E09000015,Harrow,3,12012
-E09000015,Harrow,4,2763
-E09000015,Harrow,5,233
-E09000016,Havering,-8,0
-E09000016,Havering,1,47903
-E09000016,Havering,2,34966
-E09000016,Havering,3,14859
-E09000016,Havering,4,3337
-E09000016,Havering,5,212
-E09000017,Hillingdon,-8,0
-E09000017,Hillingdon,1,50136
-E09000017,Hillingdon,2,38207
-E09000017,Hillingdon,3,16448
-E09000017,Hillingdon,4,4110
-E09000017,Hillingdon,5,327
-E09000018,Hounslow,-8,0
-E09000018,Hounslow,1,45406
-E09000018,Hounslow,2,36270
-E09000018,Hounslow,3,16488
-E09000018,Hounslow,4,4377
-E09000018,Hounslow,5,420
-E09000019,Islington,-8,0
-E09000019,Islington,1,46657
-E09000019,Islington,2,29403
-E09000019,Islington,3,14577
-E09000019,Islington,4,5409
-E09000019,Islington,5,450
-E09000020,Kensington and Chelsea,-8,0
-E09000020,Kensington and Chelsea,1,35174
-E09000020,Kensington and Chelsea,2,20245
-E09000020,Kensington and Chelsea,3,8121
-E09000020,Kensington and Chelsea,4,2918
-E09000020,Kensington and Chelsea,5,426
-E09000021,Kingston upon Thames,-8,0
-E09000021,Kingston upon Thames,1,36639
-E09000021,Kingston upon Thames,2,20274
-E09000021,Kingston upon Thames,3,7045
-E09000021,Kingston upon Thames,4,1552
-E09000021,Kingston upon Thames,5,116
-E09000022,Lambeth,-8,0
-E09000022,Lambeth,1,67366
-E09000022,Lambeth,2,42725
-E09000022,Lambeth,3,18625
-E09000022,Lambeth,4,5499
-E09000022,Lambeth,5,473
-E09000023,Lewisham,-8,0
-E09000023,Lewisham,1,57783
-E09000023,Lewisham,2,39762
-E09000023,Lewisham,3,18556
-E09000023,Lewisham,4,5755
-E09000023,Lewisham,5,536
-E09000024,Merton,-8,0
-E09000024,Merton,1,44057
-E09000024,Merton,2,25596
-E09000024,Merton,3,9632
-E09000024,Merton,4,2276
-E09000024,Merton,5,168
-E09000025,Newham,-8,0
-E09000025,Newham,1,45399
-E09000025,Newham,2,41296
-E09000025,Newham,3,21230
-E09000025,Newham,4,7081
-E09000025,Newham,5,501
-E09000026,Redbridge,-8,0
-E09000026,Redbridge,1,47994
-E09000026,Redbridge,2,36254
-E09000026,Redbridge,3,15319
-E09000026,Redbridge,4,3869
-E09000026,Redbridge,5,277
-E09000027,Richmond upon Thames,-8,0
-E09000027,Richmond upon Thames,1,49261
-E09000027,Richmond upon Thames,2,22644
-E09000027,Richmond upon Thames,3,6992
-E09000027,Richmond upon Thames,4,1678
-E09000027,Richmond upon Thames,5,130
-E09000028,Southwark,-8,0
-E09000028,Southwark,1,63507
-E09000028,Southwark,2,41817
-E09000028,Southwark,3,19018
-E09000028,Southwark,4,6066
-E09000028,Southwark,5,410
-E09000029,Sutton,-8,0
-E09000029,Sutton,1,41892
-E09000029,Sutton,2,27257
-E09000029,Sutton,3,10463
-E09000029,Sutton,4,2549
-E09000029,Sutton,5,187
-E09000030,Tower Hamlets,-8,0
-E09000030,Tower Hamlets,1,55936
-E09000030,Tower Hamlets,2,38337
-E09000030,Tower Hamlets,3,18685
-E09000030,Tower Hamlets,4,7054
-E09000030,Tower Hamlets,5,527
-E09000031,Waltham Forest,-8,0
-E09000031,Waltham Forest,1,46576
-E09000031,Waltham Forest,2,34786
-E09000031,Waltham Forest,3,16559
-E09000031,Waltham Forest,4,4600
-E09000031,Waltham Forest,5,380
-E09000032,Wandsworth,-8,0
-E09000032,Wandsworth,1,80186
-E09000032,Wandsworth,2,38272
-E09000032,Wandsworth,3,14425
-E09000032,Wandsworth,4,4113
-E09000032,Wandsworth,5,396
-E09000033,Westminster,-8,0
-E09000033,Westminster,1,47540
-E09000033,Westminster,2,28839
-E09000033,Westminster,3,12728
-E09000033,Westminster,4,5025
-E09000033,Westminster,5,683
-W06000001,Isle of Anglesey,-8,0
-W06000001,Isle of Anglesey,1,14683
-W06000001,Isle of Anglesey,2,10519
-W06000001,Isle of Anglesey,3,4533
-W06000001,Isle of Anglesey,4,1057
-W06000001,Isle of Anglesey,5,30
-W06000002,Gwynedd,-8,0
-W06000002,Gwynedd,1,25361
-W06000002,Gwynedd,2,17040
-W06000002,Gwynedd,3,7064
-W06000002,Gwynedd,4,1573
-W06000002,Gwynedd,5,67
-W06000003,Conwy,-8,0
-W06000003,Conwy,1,24098
-W06000003,Conwy,2,18173
-W06000003,Conwy,3,7918
-W06000003,Conwy,4,1956
-W06000003,Conwy,5,90
-W06000004,Denbighshire,-8,0
-W06000004,Denbighshire,1,18992
-W06000004,Denbighshire,2,14579
-W06000004,Denbighshire,3,6929
-W06000004,Denbighshire,4,1785
-W06000004,Denbighshire,5,102
-W06000005,Flintshire,-8,0
-W06000005,Flintshire,1,32748
-W06000005,Flintshire,2,22435
-W06000005,Flintshire,3,9486
-W06000005,Flintshire,4,2155
-W06000005,Flintshire,5,87
-W06000006,Wrexham,-8,0
-W06000006,Wrexham,1,27134
-W06000006,Wrexham,2,19578
-W06000006,Wrexham,3,8774
-W06000006,Wrexham,4,2333
-W06000006,Wrexham,5,95
-W06000008,Ceredigion,-8,0
-W06000008,Ceredigion,1,14553
-W06000008,Ceredigion,2,11019
-W06000008,Ceredigion,3,4395
-W06000008,Ceredigion,4,898
-W06000008,Ceredigion,5,28
-W06000009,Pembrokeshire,-8,0
-W06000009,Pembrokeshire,1,25547
-W06000009,Pembrokeshire,2,19262
-W06000009,Pembrokeshire,3,8565
-W06000009,Pembrokeshire,4,2017
-W06000009,Pembrokeshire,5,97
-W06000010,Carmarthenshire,-8,0
-W06000010,Carmarthenshire,1,37050
-W06000010,Carmarthenshire,2,27869
-W06000010,Carmarthenshire,3,13425
-W06000010,Carmarthenshire,4,3324
-W06000010,Carmarthenshire,5,91
-W06000011,Swansea,-8,0
-W06000011,Swansea,1,47764
-W06000011,Swansea,2,34960
-W06000011,Swansea,3,16952
-W06000011,Swansea,4,5106
-W06000011,Swansea,5,180
-W06000012,Neath Port Talbot,-8,0
-W06000012,Neath Port Talbot,1,25834
-W06000012,Neath Port Talbot,2,20716
-W06000012,Neath Port Talbot,3,11856
-W06000012,Neath Port Talbot,4,3858
-W06000012,Neath Port Talbot,5,109
-W06000013,Bridgend,-8,0
-W06000013,Bridgend,1,28315
-W06000013,Bridgend,2,20477
-W06000013,Bridgend,3,10372
-W06000013,Bridgend,4,3104
-W06000013,Bridgend,5,91
-W06000014,Vale of Glamorgan,-8,0
-W06000014,Vale of Glamorgan,1,29294
-W06000014,Vale of Glamorgan,2,18575
-W06000014,Vale of Glamorgan,3,7648
-W06000014,Vale of Glamorgan,4,1866
-W06000014,Vale of Glamorgan,5,68
-W06000015,Cardiff,-8,0
-W06000015,Cardiff,1,72088
-W06000015,Cardiff,2,46638
-W06000015,Cardiff,3,21326
-W06000015,Cardiff,4,6862
-W06000015,Cardiff,5,419
-W06000016,Rhondda Cynon Taf,-8,0
-W06000016,Rhondda Cynon Taf,1,43372
-W06000016,Rhondda Cynon Taf,2,34175
-W06000016,Rhondda Cynon Taf,3,19521
-W06000016,Rhondda Cynon Taf,4,6066
-W06000016,Rhondda Cynon Taf,5,203
-W06000018,Caerphilly,-8,0
-W06000018,Caerphilly,1,32079
-W06000018,Caerphilly,2,25365
-W06000018,Caerphilly,3,14321
-W06000018,Caerphilly,4,4358
-W06000018,Caerphilly,5,134
-W06000019,Blaenau Gwent,-8,0
-W06000019,Blaenau Gwent,1,11632
-W06000019,Blaenau Gwent,2,10104
-W06000019,Blaenau Gwent,3,6291
-W06000019,Blaenau Gwent,4,2256
-W06000019,Blaenau Gwent,5,57
-W06000020,Torfaen,-8,0
-W06000020,Torfaen,1,17016
-W06000020,Torfaen,2,13738
-W06000020,Torfaen,3,7241
-W06000020,Torfaen,4,2166
-W06000020,Torfaen,5,80
-W06000021,Monmouthshire,-8,0
-W06000021,Monmouthshire,1,21144
-W06000021,Monmouthshire,2,13592
-W06000021,Monmouthshire,3,5031
-W06000021,Monmouthshire,4,1115
-W06000021,Monmouthshire,5,43
-W06000022,Newport,-8,0
-W06000022,Newport,1,30293
-W06000022,Newport,2,21796
-W06000022,Newport,3,10572
-W06000022,Newport,4,3204
-W06000022,Newport,5,189
-W06000023,Powys,-8,0
-W06000023,Powys,1,29223
-W06000023,Powys,2,20871
-W06000023,Powys,3,8317
-W06000023,Powys,4,1713
-W06000023,Powys,5,58
-W06000024,Merthyr Tydfil,-8,0
-W06000024,Merthyr Tydfil,1,10364
-W06000024,Merthyr Tydfil,2,8578
-W06000024,Merthyr Tydfil,3,4955
-W06000024,Merthyr Tydfil,4,1811
-W06000024,Merthyr Tydfil,5,77
+code	city 	deprivation code	value
+E06000001	Hartlepool	1	17262
+E06000001	Hartlepool	2	13735
+E06000001	Hartlepool	3	7570
+E06000001	Hartlepool	4	2278
+E06000001	Hartlepool	5	85
+E06000002	Middlesbrough	1	25407
+E06000002	Middlesbrough	2	20394
+E06000002	Middlesbrough	3	10816
+E06000002	Middlesbrough	4	3517
+E06000002	Middlesbrough	5	128
+E06000003	Redcar and Cleveland	1	27192
+E06000003	Redcar and Cleveland	2	21064
+E06000003	Redcar and Cleveland	3	10307
+E06000003	Redcar and Cleveland	4	2969
+E06000003	Redcar and Cleveland	5	106
+E06000004	Stockton-on-Tees	1	40497
+E06000004	Stockton-on-Tees	2	27187
+E06000004	Stockton-on-Tees	3	12617
+E06000004	Stockton-on-Tees	4	3324
+E06000004	Stockton-on-Tees	5	132
+E06000005	Darlington	1	23775
+E06000005	Darlington	2	16384
+E06000005	Darlington	3	6944
+E06000005	Darlington	4	1738
+E06000005	Darlington	5	76
+E06000006	Halton	1	24183
+E06000006	Halton	2	18732
+E06000006	Halton	3	9843
+E06000006	Halton	4	3088
+E06000006	Halton	5	103
+E06000007	Warrington	1	46997
+E06000007	Warrington	2	29036
+E06000007	Warrington	3	11560
+E06000007	Warrington	4	2824
+E06000007	Warrington	5	121
+E06000008	Blackburn with Darwen	1	24187
+E06000008	Blackburn with Darwen	2	19982
+E06000008	Blackburn with Darwen	3	10718
+E06000008	Blackburn with Darwen	4	3692
+E06000008	Blackburn with Darwen	5	188
+E06000009	Blackpool	1	24769
+E06000009	Blackpool	2	22750
+E06000009	Blackpool	3	12785
+E06000009	Blackpool	4	4183
+E06000009	Blackpool	5	302
+E06000010	Kingston upon Hull	1	47556
+E06000010	Kingston upon Hull	2	39375
+E06000010	Kingston upon Hull	3	21788
+E06000010	Kingston upon Hull	4	6452
+E06000010	Kingston upon Hull	5	301
+E06000011	East Riding of Yorkshire	1	77704
+E06000011	East Riding of Yorkshire	2	51733
+E06000011	East Riding of Yorkshire	3	18920
+E06000011	East Riding of Yorkshire	4	3542
+E06000011	East Riding of Yorkshire	5	167
+E06000012	North East Lincolnshire	1	30701
+E06000012	North East Lincolnshire	2	24150
+E06000012	North East Lincolnshire	3	11618
+E06000012	North East Lincolnshire	4	3222
+E06000012	North East Lincolnshire	5	135
+E06000013	North Lincolnshire	1	33731
+E06000013	North Lincolnshire	2	25637
+E06000013	North Lincolnshire	3	11151
+E06000013	North Lincolnshire	4	2565
+E06000013	North Lincolnshire	5	89
+E06000014	York	1	46025
+E06000014	York	2	27910
+E06000014	York	3	9518
+E06000014	York	4	1918
+E06000014	York	5	88
+E06000015	Derby	1	48185
+E06000015	Derby	2	35658
+E06000015	Derby	3	16606
+E06000015	Derby	4	4907
+E06000015	Derby	5	296
+E06000016	Leicester	1	49397
+E06000016	Leicester	2	45634
+E06000016	Leicester	3	24094
+E06000016	Leicester	4	7624
+E06000016	Leicester	5	639
+E06000017	Rutland	1	9675
+E06000017	Rutland	2	5284
+E06000017	Rutland	3	1529
+E06000017	Rutland	4	198
+E06000017	Rutland	5	8
+E06000018	Nottingham	1	51881
+E06000018	Nottingham	2	42946
+E06000018	Nottingham	3	22536
+E06000018	Nottingham	4	7016
+E06000018	Nottingham	5	366
+E06000019	Herefordshire	1	40941
+E06000019	Herefordshire	2	28690
+E06000019	Herefordshire	3	10761
+E06000019	Herefordshire	4	2284
+E06000019	Herefordshire	5	149
+E06000020	Telford and Wrekin	1	35190
+E06000020	Telford and Wrekin	2	25928
+E06000020	Telford and Wrekin	3	12129
+E06000020	Telford and Wrekin	4	3138
+E06000020	Telford and Wrekin	5	125
+E06000021	Stoke-on-Trent	1	45368
+E06000021	Stoke-on-Trent	2	38581
+E06000021	Stoke-on-Trent	3	20120
+E06000021	Stoke-on-Trent	4	6068
+E06000021	Stoke-on-Trent	5	263
+E06000022	Bath and North East Somerset	1	42870
+E06000022	Bath and North East Somerset	2	25495
+E06000022	Bath and North East Somerset	3	8952
+E06000022	Bath and North East Somerset	4	1819
+E06000022	Bath and North East Somerset	5	114
+E06000023	Bristol	1	96135
+E06000023	Bristol	2	60901
+E06000023	Bristol	3	26503
+E06000023	Bristol	4	7515
+E06000023	Bristol	5	584
+E06000024	North Somerset	1	48754
+E06000024	North Somerset	2	31684
+E06000024	North Somerset	3	11454
+E06000024	North Somerset	4	2565
+E06000024	North Somerset	5	190
+E06000025	South Gloucestershire	1	63701
+E06000025	South Gloucestershire	2	38638
+E06000025	South Gloucestershire	3	13163
+E06000025	South Gloucestershire	4	2454
+E06000025	South Gloucestershire	5	145
+E06000026	Plymouth	1	52100
+E06000026	Plymouth	2	38898
+E06000026	Plymouth	3	18228
+E06000026	Plymouth	4	5049
+E06000026	Plymouth	5	282
+E06000027	Torbay	1	26537
+E06000027	Torbay	2	22606
+E06000027	Torbay	3	10615
+E06000027	Torbay	4	2984
+E06000027	Torbay	5	252
+E06000030	Swindon	1	47251
+E06000030	Swindon	2	32397
+E06000030	Swindon	3	12869
+E06000030	Swindon	4	3167
+E06000030	Swindon	5	178
+E06000031	Peterborough	1	38082
+E06000031	Peterborough	2	29514
+E06000031	Peterborough	3	13102
+E06000031	Peterborough	4	3578
+E06000031	Peterborough	5	257
+E06000032	Luton	1	32610
+E06000032	Luton	2	28763
+E06000032	Luton	3	13520
+E06000032	Luton	4	3732
+E06000032	Luton	5	315
+E06000033	Southend-on-Sea	1	35711
+E06000033	Southend-on-Sea	2	27058
+E06000033	Southend-on-Sea	3	11979
+E06000033	Southend-on-Sea	4	3277
+E06000033	Southend-on-Sea	5	319
+E06000034	Thurrock	1	30305
+E06000034	Thurrock	2	23194
+E06000034	Thurrock	3	10204
+E06000034	Thurrock	4	2500
+E06000034	Thurrock	5	174
+E06000035	Medway	1	51808
+E06000035	Medway	2	38410
+E06000035	Medway	3	16523
+E06000035	Medway	4	4326
+E06000035	Medway	5	391
+E06000036	Bracknell Forest	1	28327
+E06000036	Bracknell Forest	2	15641
+E06000036	Bracknell Forest	3	5132
+E06000036	Bracknell Forest	4	1069
+E06000036	Bracknell Forest	5	79
+E06000037	West Berkshire	1	37321
+E06000037	West Berkshire	2	21058
+E06000037	West Berkshire	3	6829
+E06000037	West Berkshire	4	1365
+E06000037	West Berkshire	5	85
+E06000038	Reading	1	34684
+E06000038	Reading	2	21772
+E06000038	Reading	3	8682
+E06000038	Reading	4	2350
+E06000038	Reading	5	195
+E06000039	Slough	1	22184
+E06000039	Slough	2	19176
+E06000039	Slough	3	8603
+E06000039	Slough	4	2293
+E06000039	Slough	5	168
+E06000040	Windsor and Maidenhead	1	35924
+E06000040	Windsor and Maidenhead	2	18161
+E06000040	Windsor and Maidenhead	3	5724
+E06000040	Windsor and Maidenhead	4	1071
+E06000040	Windsor and Maidenhead	5	53
+E06000041	Wokingham	1	42518
+E06000041	Wokingham	2	20173
+E06000041	Wokingham	3	5513
+E06000041	Wokingham	4	900
+E06000041	Wokingham	5	60
+E06000042	Milton Keynes	1	57966
+E06000042	Milton Keynes	2	36777
+E06000042	Milton Keynes	3	14442
+E06000042	Milton Keynes	4	3653
+E06000042	Milton Keynes	5	264
+E06000043	Brighton and Hove	1	58122
+E06000043	Brighton and Hove	2	40060
+E06000043	Brighton and Hove	3	17461
+E06000043	Brighton and Hove	4	5195
+E06000043	Brighton and Hove	5	563
+E06000044	Portsmouth	1	40658
+E06000044	Portsmouth	2	28802
+E06000044	Portsmouth	3	12890
+E06000044	Portsmouth	4	3524
+E06000044	Portsmouth	5	281
+E06000045	Southampton	1	46401
+E06000045	Southampton	2	35075
+E06000045	Southampton	3	15830
+E06000045	Southampton	4	4573
+E06000045	Southampton	5	412
+E06000046	Isle of Wight	1	28569
+E06000046	Isle of Wight	2	23476
+E06000046	Isle of Wight	3	10070
+E06000046	Isle of Wight	4	2465
+E06000046	Isle of Wight	5	195
+E06000047	County Durham	1	104412
+E06000047	County Durham	2	79207
+E06000047	County Durham	3	39903
+E06000047	County Durham	4	10931
+E06000047	County Durham	5	308
+E06000049	Cheshire East	1	95796
+E06000049	Cheshire East	2	55229
+E06000049	Cheshire East	3	19584
+E06000049	Cheshire East	4	4086
+E06000049	Cheshire East	5	161
+E06000050	Cheshire West and Chester	1	80756
+E06000050	Cheshire West and Chester	2	49835
+E06000050	Cheshire West and Chester	3	19598
+E06000050	Cheshire West and Chester	4	4721
+E06000050	Cheshire West and Chester	5	246
+E06000051	Shropshire	1	70872
+E06000051	Shropshire	2	47508
+E06000051	Shropshire	3	17359
+E06000051	Shropshire	4	3697
+E06000051	Shropshire	5	143
+E06000052	Cornwall	1	115522
+E06000052	Cornwall	2	88881
+E06000052	Cornwall	3	36692
+E06000052	Cornwall	4	8750
+E06000052	Cornwall	5	690
+E06000053	Isles of Scilly	1	478
+E06000053	Isles of Scilly	2	337
+E06000053	Isles of Scilly	3	106
+E06000053	Isles of Scilly	4	21
+E06000053	Isles of Scilly	5	0
+E06000054	Wiltshire	1	114886
+E06000054	Wiltshire	2	70924
+E06000054	Wiltshire	3	24198
+E06000054	Wiltshire	4	4848
+E06000054	Wiltshire	5	225
+E06000055	Bedford	1	38704
+E06000055	Bedford	2	24497
+E06000055	Bedford	3	9293
+E06000055	Bedford	4	2224
+E06000055	Bedford	5	232
+E06000056	Central Bedfordshire	1	66142
+E06000056	Central Bedfordshire	2	38934
+E06000056	Central Bedfordshire	3	12938
+E06000056	Central Bedfordshire	4	2607
+E06000056	Central Bedfordshire	5	133
+E06000057	Northumberland	1	71280
+E06000057	Northumberland	2	49905
+E06000057	Northumberland	3	20510
+E06000057	Northumberland	4	5035
+E06000057	Northumberland	5	191
+E06000058	Bournemouth Christchurch and Poole	1	83966
+E06000058	Bournemouth Christchurch and Poole	2	59166
+E06000058	Bournemouth Christchurch and Poole	3	24231
+E06000058	Bournemouth  Christchurch and Poole	4	5889
+E06000058	Bournemouth Christchurch and Poole	5	590
+E06000059	Dorset	1	84472
+E06000059	Dorset	2	59229
+E06000059	Dorset	3	21130
+E06000059	Dorset	4	4136
+E06000059	Dorset	5	291
+E06000060	Buckinghamshire	1	125932
+E06000060	Buckinghamshire	2	68311
+E06000060	Buckinghamshire	3	21635
+E06000060	Buckinghamshire	4	4208
+E06000060	Buckinghamshire	5	242
+E06000061	North Northamptonshire	1	72737
+E06000061	North Northamptonshire	2	50657
+E06000061	North Northamptonshire	3	20356
+E06000061	North Northamptonshire	4	4918
+E06000061	North Northamptonshire	5	248
+E06000062	West Northamptonshire	1	89483
+E06000062	West Northamptonshire	2	57289
+E06000062	West Northamptonshire	3	20930
+E06000062	West Northamptonshire	4	4659
+E06000062	West Northamptonshire	5	280
+E07000008	Cambridge	1	29648
+E07000008	Cambridge	2	15867
+E07000008	Cambridge	3	5485
+E07000008	Cambridge	4	1390
+E07000008	Cambridge	5	82
+E07000009	East Cambridgeshire	1	19868
+E07000009	East Cambridgeshire	2	12385
+E07000009	East Cambridgeshire	3	4128
+E07000009	East Cambridgeshire	4	790
+E07000009	East Cambridgeshire	5	30
+E07000010	Fenland	1	18370
+E07000010	Fenland	2	16471
+E07000010	Fenland	3	7442
+E07000010	Fenland	4	1702
+E07000010	Fenland	5	99
+E07000011	Huntingdonshire	1	41205
+E07000011	Huntingdonshire	2	25319
+E07000011	Huntingdonshire	3	8576
+E07000011	Huntingdonshire	4	1699
+E07000011	Huntingdonshire	5	82
+E07000012	South Cambridgeshire	1	39133
+E07000012	South Cambridgeshire	2	20695
+E07000012	South Cambridgeshire	3	6077
+E07000012	South Cambridgeshire	4	1055
+E07000012	South Cambridgeshire	5	36
+E07000026	Allerdale	1	21136
+E07000026	Allerdale	2	14953
+E07000026	Allerdale	3	6232
+E07000026	Allerdale	4	1602
+E07000026	Allerdale	5	50
+E07000027	Barrow-in-Furness	1	14599
+E07000027	Barrow-in-Furness	2	10261
+E07000027	Barrow-in-Furness	3	4943
+E07000027	Barrow-in-Furness	4	1397
+E07000027	Barrow-in-Furness	5	59
+E07000028	Carlisle	1	24765
+E07000028	Carlisle	2	17046
+E07000028	Carlisle	3	6974
+E07000028	Carlisle	4	1811
+E07000028	Carlisle	5	66
+E07000029	Copeland	1	14486
+E07000029	Copeland	2	10219
+E07000029	Copeland	3	4677
+E07000029	Copeland	4	1362
+E07000029	Copeland	5	47
+E07000030	Eden	1	12769
+E07000030	Eden	2	8560
+E07000030	Eden	3	2730
+E07000030	Eden	4	532
+E07000030	Eden	5	22
+E07000031	South Lakeland	1	26245
+E07000031	South Lakeland	2	15748
+E07000031	South Lakeland	3	4838
+E07000031	South Lakeland	4	793
+E07000031	South Lakeland	5	33
+E07000032	Amber Valley	1	27520
+E07000032	Amber Valley	2	18893
+E07000032	Amber Valley	3	7864
+E07000032	Amber Valley	4	1926
+E07000032	Amber Valley	5	75
+E07000033	Bolsover	1	15065
+E07000033	Bolsover	2	12160
+E07000033	Bolsover	3	6318
+E07000033	Bolsover	4	1672
+E07000033	Bolsover	5	46
+E07000034	Chesterfield	1	21488
+E07000034	Chesterfield	2	16437
+E07000034	Chesterfield	3	7884
+E07000034	Chesterfield	4	2148
+E07000034	Chesterfield	5	101
+E07000035	Derbyshire Dales	1	17089
+E07000035	Derbyshire Dales	2	10764
+E07000035	Derbyshire Dales	3	3770
+E07000035	Derbyshire Dales	4	625
+E07000035	Derbyshire Dales	5	36
+E07000036	Erewash	1	24179
+E07000036	Erewash	2	17054
+E07000036	Erewash	3	7164
+E07000036	Erewash	4	1858
+E07000036	Erewash	5	79
+E07000037	High Peak	1	21222
+E07000037	High Peak	2	13356
+E07000037	High Peak	3	5024
+E07000037	High Peak	4	1123
+E07000037	High Peak	5	47
+E07000038	North East Derbyshire	1	21613
+E07000038	North East Derbyshire	2	15772
+E07000038	North East Derbyshire	3	6916
+E07000038	North East Derbyshire	4	1620
+E07000038	North East Derbyshire	5	66
+E07000039	South Derbyshire	1	24546
+E07000039	South Derbyshire	2	14303
+E07000039	South Derbyshire	3	5298
+E07000039	South Derbyshire	4	1057
+E07000039	South Derbyshire	5	35
+E07000040	East Devon	1	33888
+E07000040	East Devon	2	23621
+E07000040	East Devon	3	7809
+E07000040	East Devon	4	1385
+E07000040	East Devon	5	85
+E07000041	Exeter	1	26181
+E07000041	Exeter	2	17439
+E07000041	Exeter	3	7025
+E07000041	Exeter	4	1779
+E07000041	Exeter	5	130
+E07000042	Mid Devon	1	17503
+E07000042	Mid Devon	2	12501
+E07000042	Mid Devon	3	4648
+E07000042	Mid Devon	4	937
+E07000042	Mid Devon	5	47
+E07000043	North Devon	1	20705
+E07000043	North Devon	2	15124
+E07000043	North Devon	3	6010
+E07000043	North Devon	4	1268
+E07000043	North Devon	5	90
+E07000044	South Hams	1	20843
+E07000044	South Hams	2	13180
+E07000044	South Hams	3	4431
+E07000044	South Hams	4	830
+E07000044	South Hams	5	51
+E07000045	Teignbridge	1	29571
+E07000045	Teignbridge	2	20916
+E07000045	Teignbridge	3	7761
+E07000045	Teignbridge	4	1483
+E07000045	Teignbridge	5	107
+E07000046	Torridge	1	14051
+E07000046	Torridge	2	10950
+E07000046	Torridge	3	4491
+E07000046	Torridge	4	907
+E07000046	Torridge	5	60
+E07000047	West Devon	1	12236
+E07000047	West Devon	2	8733
+E07000047	West Devon	3	3176
+E07000047	West Devon	4	620
+E07000047	West Devon	5	53
+E07000061	Eastbourne	1	19705
+E07000061	Eastbourne	2	16400
+E07000061	Eastbourne	3	7386
+E07000061	Eastbourne	4	1882
+E07000061	Eastbourne	5	236
+E07000062	Hastings	1	17007
+E07000062	Hastings	2	14173
+E07000062	Hastings	3	7001
+E07000062	Hastings	4	2076
+E07000062	Hastings	5	193
+E07000063	Lewes	1	20934
+E07000063	Lewes	2	15304
+E07000063	Lewes	3	5977
+E07000063	Lewes	4	1367
+E07000063	Lewes	5	106
+E07000064	Rother	1	19251
+E07000064	Rother	2	15475
+E07000064	Rother	3	6112
+E07000064	Rother	4	1192
+E07000064	Rother	5	72
+E07000065	Wealden	1	35828
+E07000065	Wealden	2	23388
+E07000065	Wealden	3	7707
+E07000065	Wealden	4	1287
+E07000065	Wealden	5	55
+E07000066	Basildon	1	35257
+E07000066	Basildon	2	26222
+E07000066	Basildon	3	11652
+E07000066	Basildon	4	3011
+E07000066	Basildon	5	221
+E07000067	Braintree	1	32486
+E07000067	Braintree	2	22192
+E07000067	Braintree	3	8442
+E07000067	Braintree	4	1768
+E07000067	Braintree	5	96
+E07000068	Brentwood	1	17935
+E07000068	Brentwood	2	10172
+E07000068	Brentwood	3	3465
+E07000068	Brentwood	4	716
+E07000068	Brentwood	5	54
+E07000069	Castle Point	1	16388
+E07000069	Castle Point	2	13761
+E07000069	Castle Point	3	5898
+E07000069	Castle Point	4	1265
+E07000069	Castle Point	5	77
+E07000070	Chelmsford	1	41147
+E07000070	Chelmsford	2	24302
+E07000070	Chelmsford	3	8170
+E07000070	Chelmsford	4	1694
+E07000070	Chelmsford	5	90
+E07000071	Colchester	1	40941
+E07000071	Colchester	2	26500
+E07000071	Colchester	3	9832
+E07000071	Colchester	4	2292
+E07000071	Colchester	5	145
+E07000072	Epping Forest	1	27885
+E07000072	Epping Forest	2	18102
+E07000072	Epping Forest	3	6906
+E07000072	Epping Forest	4	1560
+E07000072	Epping Forest	5	104
+E07000073	Harlow	1	16252
+E07000073	Harlow	2	13397
+E07000073	Harlow	3	6350
+E07000073	Harlow	4	1669
+E07000073	Harlow	5	188
+E07000074	Maldon	1	13842
+E07000074	Maldon	2	9688
+E07000074	Maldon	3	3587
+E07000074	Maldon	4	754
+E07000074	Maldon	5	29
+E07000075	Rochford	1	17569
+E07000075	Rochford	2	12393
+E07000075	Rochford	3	4779
+E07000075	Rochford	4	765
+E07000075	Rochford	5	51
+E07000076	Tendring	1	25858
+E07000076	Tendring	2	25422
+E07000076	Tendring	3	12755
+E07000076	Tendring	4	3171
+E07000076	Tendring	5	244
+E07000077	Uttlesford	1	21451
+E07000077	Uttlesford	2	11364
+E07000077	Uttlesford	3	3506
+E07000077	Uttlesford	4	611
+E07000077	Uttlesford	5	25
+E07000078	Cheltenham	1	29708
+E07000078	Cheltenham	2	16236
+E07000078	Cheltenham	3	5613
+E07000078	Cheltenham	4	1260
+E07000078	Cheltenham	5	82
+E07000079	Cotswold	1	23145
+E07000079	Cotswold	2	12909
+E07000079	Cotswold	3	3852
+E07000079	Cotswold	4	666
+E07000079	Cotswold	5	25
+E07000080	Forest of Dean	1	17898
+E07000080	Forest of Dean	2	12961
+E07000080	Forest of Dean	3	5208
+E07000080	Forest of Dean	4	1101
+E07000080	Forest of Dean	5	49
+E07000081	Gloucester	1	27115
+E07000081	Gloucester	2	18696
+E07000081	Gloucester	3	7514
+E07000081	Gloucester	4	1928
+E07000081	Gloucester	5	154
+E07000082	Stroud	1	28891
+E07000082	Stroud	2	16912
+E07000082	Stroud	3	5425
+E07000082	Stroud	4	1093
+E07000082	Stroud	5	57
+E07000083	Tewkesbury	1	22543
+E07000083	Tewkesbury	2	13270
+E07000083	Tewkesbury	3	4277
+E07000083	Tewkesbury	4	797
+E07000083	Tewkesbury	5	44
+E07000084	Basingstoke and Deane	1	42182
+E07000084	Basingstoke and Deane	2	24524
+E07000084	Basingstoke and Deane	3	8202
+E07000084	Basingstoke and Deane	4	1650
+E07000084	Basingstoke and Deane	5	86
+E07000085	East Hampshire	1	30044
+E07000085	East Hampshire	2	16634
+E07000085	East Hampshire	3	5006
+E07000085	East Hampshire	4	973
+E07000085	East Hampshire	5	61
+E07000086	Eastleigh	1	31397
+E07000086	Eastleigh	2	18289
+E07000086	Eastleigh	3	6032
+E07000086	Eastleigh	4	1150
+E07000086	Eastleigh	5	54
+E07000087	Fareham	1	26566
+E07000087	Fareham	2	16065
+E07000087	Fareham	3	5161
+E07000087	Fareham	4	800
+E07000087	Fareham	5	47
+E07000088	Gosport	1	16523
+E07000088	Gosport	2	12813
+E07000088	Gosport	3	5305
+E07000088	Gosport	4	1208
+E07000088	Gosport	5	73
+E07000089	Hart	1	24252
+E07000089	Hart	2	11899
+E07000089	Hart	3	3264
+E07000089	Hart	4	526
+E07000089	Hart	5	23
+E07000090	Havant	1	24402
+E07000090	Havant	2	18946
+E07000090	Havant	3	8020
+E07000090	Havant	4	2020
+E07000090	Havant	5	201
+E07000091	New Forest	1	39907
+E07000091	New Forest	2	26596
+E07000091	New Forest	3	9265
+E07000091	New Forest	4	1671
+E07000091	New Forest	5	127
+E07000092	Rushmoor	1	20081
+E07000092	Rushmoor	2	12889
+E07000092	Rushmoor	3	5038
+E07000092	Rushmoor	4	1212
+E07000092	Rushmoor	5	84
+E07000093	Test Valley	1	30460
+E07000093	Test Valley	2	17505
+E07000093	Test Valley	3	5573
+E07000093	Test Valley	4	1116
+E07000093	Test Valley	5	53
+E07000094	Winchester	1	30153
+E07000094	Winchester	2	15705
+E07000094	Winchester	3	4907
+E07000094	Winchester	4	894
+E07000094	Winchester	5	56
+E07000095	Broxbourne	1	18526
+E07000095	Broxbourne	2	13972
+E07000095	Broxbourne	3	5813
+E07000095	Broxbourne	4	1403
+E07000095	Broxbourne	5	136
+E07000096	Dacorum	1	34197
+E07000096	Dacorum	2	20159
+E07000096	Dacorum	3	7241
+E07000096	Dacorum	4	1673
+E07000096	Dacorum	5	142
+E07000098	Hertsmere	1	22141
+E07000098	Hertsmere	2	14147
+E07000098	Hertsmere	3	5171
+E07000098	Hertsmere	4	1147
+E07000098	Hertsmere	5	76
+E07000099	North Hertfordshire	1	31231
+E07000099	North Hertfordshire	2	17898
+E07000099	North Hertfordshire	3	6259
+E07000099	North Hertfordshire	4	1261
+E07000099	North Hertfordshire	5	83
+E07000102	Three Rivers	1	20394
+E07000102	Three Rivers	2	11586
+E07000102	Three Rivers	3	3985
+E07000102	Three Rivers	4	814
+E07000102	Three Rivers	5	81
+E07000103	Watford	1	20051
+E07000103	Watford	2	13115
+E07000103	Watford	3	5091
+E07000103	Watford	4	1264
+E07000103	Watford	5	107
+E07000105	Ashford	1	26784
+E07000105	Ashford	2	18085
+E07000105	Ashford	3	7081
+E07000105	Ashford	4	1528
+E07000105	Ashford	5	105
+E07000106	Canterbury	1	30170
+E07000106	Canterbury	2	22294
+E07000106	Canterbury	3	9079
+E07000106	Canterbury	4	2092
+E07000106	Canterbury	5	157
+E07000107	Dartford	1	23846
+E07000107	Dartford	2	14682
+E07000107	Dartford	3	5787
+E07000107	Dartford	4	1282
+E07000107	Dartford	5	99
+E07000108	Dover	1	22821
+E07000108	Dover	2	17679
+E07000108	Dover	3	8002
+E07000108	Dover	4	1918
+E07000108	Dover	5	127
+E07000109	Gravesham	1	18835
+E07000109	Gravesham	2	14736
+E07000109	Gravesham	3	6385
+E07000109	Gravesham	4	1626
+E07000109	Gravesham	5	142
+E07000110	Maidstone	1	36704
+E07000110	Maidstone	2	23765
+E07000110	Maidstone	3	8647
+E07000110	Maidstone	4	1937
+E07000110	Maidstone	5	156
+E07000111	Sevenoaks	1	26797
+E07000111	Sevenoaks	2	15559
+E07000111	Sevenoaks	3	5399
+E07000111	Sevenoaks	4	1193
+E07000111	Sevenoaks	5	65
+E07000112	Folkestone and Hythe	1	21473
+E07000112	Folkestone and Hythe	2	17142
+E07000112	Folkestone and Hythe	3	7645
+E07000112	Folkestone and Hythe	4	1919
+E07000112	Folkestone and Hythe	5	159
+E07000113	Swale	1	26811
+E07000113	Swale	2	21299
+E07000113	Swale	3	9541
+E07000113	Swale	4	2675
+E07000113	Swale	5	168
+E07000114	Thanet	1	25596
+E07000114	Thanet	2	22482
+E07000114	Thanet	3	10956
+E07000114	Thanet	4	2910
+E07000114	Thanet	5	256
+E07000115	Tonbridge and Malling	1	28883
+E07000115	Tonbridge and Malling	2	17151
+E07000115	Tonbridge and Malling	3	6164
+E07000115	Tonbridge and Malling	4	1314
+E07000115	Tonbridge and Malling	5	63
+E07000116	Tunbridge Wells	1	26644
+E07000116	Tunbridge Wells	2	14989
+E07000116	Tunbridge Wells	3	5298
+E07000116	Tunbridge Wells	4	1188
+E07000116	Tunbridge Wells	5	104
+E07000117	Burnley	1	16305
+E07000117	Burnley	2	13669
+E07000117	Burnley	3	7316
+E07000117	Burnley	4	2440
+E07000117	Burnley	5	142
+E07000118	Chorley	1	26340
+E07000118	Chorley	2	16325
+E07000118	Chorley	3	6015
+E07000118	Chorley	4	1406
+E07000118	Chorley	5	46
+E07000119	Fylde	1	19108
+E07000119	Fylde	2	12754
+E07000119	Fylde	3	4648
+E07000119	Fylde	4	1030
+E07000119	Fylde	5	64
+E07000120	Hyndburn	1	14766
+E07000120	Hyndburn	2	11847
+E07000120	Hyndburn	3	6092
+E07000120	Hyndburn	4	1985
+E07000120	Hyndburn	5	100
+E07000121	Lancaster	1	29026
+E07000121	Lancaster	2	20314
+E07000121	Lancaster	3	8383
+E07000121	Lancaster	4	2132
+E07000121	Lancaster	5	124
+E07000122	Pendle	1	16180
+E07000122	Pendle	2	13333
+E07000122	Pendle	3	6450
+E07000122	Pendle	4	1999
+E07000122	Pendle	5	104
+E07000123	Preston	1	27785
+E07000123	Preston	2	20032
+E07000123	Preston	3	8931
+E07000123	Preston	4	2700
+E07000123	Preston	5	159
+E07000124	Ribble Valley	1	15673
+E07000124	Ribble Valley	2	8156
+E07000124	Ribble Valley	3	2455
+E07000124	Ribble Valley	4	436
+E07000124	Ribble Valley	5	27
+E07000125	Rossendale	1	14666
+E07000125	Rossendale	2	10071
+E07000125	Rossendale	3	4496
+E07000125	Rossendale	4	1270
+E07000125	Rossendale	5	58
+E07000126	South Ribble	1	25461
+E07000126	South Ribble	2	16043
+E07000126	South Ribble	3	5871
+E07000126	South Ribble	4	1158
+E07000126	South Ribble	5	55
+E07000127	West Lancashire	1	23639
+E07000127	West Lancashire	2	16442
+E07000127	West Lancashire	3	6818
+E07000127	West Lancashire	4	1567
+E07000127	West Lancashire	5	67
+E07000128	Wyre	1	23366
+E07000128	Wyre	2	17707
+E07000128	Wyre	3	7793
+E07000128	Wyre	4	1813
+E07000128	Wyre	5	88
+E07000129	Blaby	1	22832
+E07000129	Blaby	2	13991
+E07000129	Blaby	3	4903
+E07000129	Blaby	4	823
+E07000129	Blaby	5	26
+E07000130	Charnwood	1	39071
+E07000130	Charnwood	2	23883
+E07000130	Charnwood	3	8869
+E07000130	Charnwood	4	1885
+E07000130	Charnwood	5	77
+E07000131	Harborough	1	23390
+E07000131	Harborough	2	12472
+E07000131	Harborough	3	3898
+E07000131	Harborough	4	625
+E07000131	Harborough	5	28
+E07000132	Hinckley and Bosworth	1	25421
+E07000132	Hinckley and Bosworth	2	16657
+E07000132	Hinckley and Bosworth	3	6114
+E07000132	Hinckley and Bosworth	4	1200
+E07000132	Hinckley and Bosworth	5	53
+E07000133	Melton	1	11989
+E07000133	Melton	2	7627
+E07000133	Melton	3	2517
+E07000133	Melton	4	439
+E07000133	Melton	5	25
+E07000134	North West Leicestershire	1	23178
+E07000134	North West Leicestershire	2	14910
+E07000134	North West Leicestershire	3	5672
+E07000134	North West Leicestershire	4	1161
+E07000134	North West Leicestershire	5	52
+E07000135	Oadby and Wigston	1	11109
+E07000135	Oadby and Wigston	2	7829
+E07000135	Oadby and Wigston	3	3091
+E07000135	Oadby and Wigston	4	549
+E07000135	Oadby and Wigston	5	37
+E07000136	Boston	1	12014
+E07000136	Boston	2	11351
+E07000136	Boston	3	4775
+E07000136	Boston	4	1181
+E07000136	Boston	5	83
+E07000137	East Lindsey	1	25757
+E07000137	East Lindsey	2	23906
+E07000137	East Lindsey	3	11962
+E07000137	East Lindsey	4	2954
+E07000137	East Lindsey	5	175
+E07000138	Lincoln	1	19193
+E07000138	Lincoln	2	14648
+E07000138	Lincoln	3	6678
+E07000138	Lincoln	4	1865
+E07000138	Lincoln	5	122
+E07000139	North Kesteven	1	26651
+E07000139	North Kesteven	2	17158
+E07000139	North Kesteven	3	6082
+E07000139	North Kesteven	4	1062
+E07000139	North Kesteven	5	36
+E07000140	South Holland	1	17927
+E07000140	South Holland	2	15205
+E07000140	South Holland	3	6323
+E07000140	South Holland	4	1193
+E07000140	South Holland	5	55
+E07000141	South Kesteven	1	32490
+E07000141	South Kesteven	2	21181
+E07000141	South Kesteven	3	7674
+E07000141	South Kesteven	4	1445
+E07000141	South Kesteven	5	60
+E07000142	West Lindsey	1	20854
+E07000142	West Lindsey	2	14460
+E07000142	West Lindsey	3	5705
+E07000142	West Lindsey	4	1273
+E07000142	West Lindsey	5	54
+E07000143	Breckland	1	27457
+E07000143	Breckland	2	22262
+E07000143	Breckland	3	8786
+E07000143	Breckland	4	1773
+E07000143	Breckland	5	83
+E07000144	Broadland	1	29450
+E07000144	Broadland	2	19966
+E07000144	Broadland	3	7131
+E07000144	Broadland	4	1170
+E07000144	Broadland	5	42
+E07000145	Great Yarmouth	1	16995
+E07000145	Great Yarmouth	2	16376
+E07000145	Great Yarmouth	3	8526
+E07000145	Great Yarmouth	4	2471
+E07000145	Great Yarmouth	5	176
+E07000146	King's Lynn and West Norfolk	1	29662
+E07000146	King's Lynn and West Norfolk	2	24812
+E07000146	King's Lynn and West Norfolk	3	10524
+E07000146	King's Lynn and West Norfolk	4	2330
+E07000146	King's Lynn and West Norfolk	5	136
+E07000147	North Norfolk	1	21480
+E07000147	North Norfolk	2	18213
+E07000147	North Norfolk	3	7186
+E07000147	North Norfolk	4	1413
+E07000147	North Norfolk	5	82
+E07000148	Norwich	1	28982
+E07000148	Norwich	2	22168
+E07000148	Norwich	3	10055
+E07000148	Norwich	4	3052
+E07000148	Norwich	5	202
+E07000149	South Norfolk	1	31718
+E07000149	South Norfolk	2	21228
+E07000149	South Norfolk	3	7114
+E07000149	South Norfolk	4	1261
+E07000149	South Norfolk	5	61
+E07000163	Craven	1	14396
+E07000163	Craven	2	8453
+E07000163	Craven	3	2698
+E07000163	Craven	4	502
+E07000163	Craven	5	19
+E07000164	Hambleton	1	22331
+E07000164	Hambleton	2	13356
+E07000164	Hambleton	3	4340
+E07000164	Hambleton	4	750
+E07000164	Hambleton	5	25
+E07000165	Harrogate	1	40757
+E07000165	Harrogate	2	22257
+E07000165	Harrogate	3	6828
+E07000165	Harrogate	4	1263
+E07000165	Harrogate	5	64
+E07000166	Richmondshire	1	11333
+E07000166	Richmondshire	2	7001
+E07000166	Richmondshire	3	2208
+E07000166	Richmondshire	4	389
+E07000166	Richmondshire	5	13
+E07000167	Ryedale	1	12802
+E07000167	Ryedale	2	8555
+E07000167	Ryedale	3	2867
+E07000167	Ryedale	4	467
+E07000167	Ryedale	5	23
+E07000168	Scarborough	1	23248
+E07000168	Scarborough	2	18045
+E07000168	Scarborough	3	7750
+E07000168	Scarborough	4	1933
+E07000168	Scarborough	5	149
+E07000169	Selby	1	21428
+E07000169	Selby	2	12802
+E07000169	Selby	3	4455
+E07000169	Selby	4	839
+E07000169	Selby	5	36
+E07000170	Ashfield	1	23517
+E07000170	Ashfield	2	18722
+E07000170	Ashfield	3	9613
+E07000170	Ashfield	4	2532
+E07000170	Ashfield	5	123
+E07000171	Bassetlaw	1	24096
+E07000171	Bassetlaw	2	17652
+E07000171	Bassetlaw	3	7728
+E07000171	Bassetlaw	4	1912
+E07000171	Bassetlaw	5	73
+E07000172	Broxtowe	1	24190
+E07000172	Broxtowe	2	16338
+E07000172	Broxtowe	3	6398
+E07000172	Broxtowe	4	1384
+E07000172	Broxtowe	5	51
+E07000173	Gedling	1	26151
+E07000173	Gedling	2	16974
+E07000173	Gedling	3	6905
+E07000173	Gedling	4	1462
+E07000173	Gedling	5	59
+E07000174	Mansfield	1	20410
+E07000174	Mansfield	2	16642
+E07000174	Mansfield	3	8443
+E07000174	Mansfield	4	2430
+E07000174	Mansfield	5	105
+E07000175	Newark and Sherwood	1	26200
+E07000175	Newark and Sherwood	2	17841
+E07000175	Newark and Sherwood	3	7447
+E07000175	Newark and Sherwood	4	1743
+E07000175	Newark and Sherwood	5	98
+E07000176	Rushcliffe	1	29124
+E07000176	Rushcliffe	2	15231
+E07000176	Rushcliffe	3	4752
+E07000176	Rushcliffe	4	754
+E07000176	Rushcliffe	5	21
+E07000177	Cherwell	1	35653
+E07000177	Cherwell	2	21456
+E07000177	Cherwell	3	7160
+E07000177	Cherwell	4	1530
+E07000177	Cherwell	5	95
+E07000178	Oxford	1	28832
+E07000178	Oxford	2	17781
+E07000178	Oxford	3	6713
+E07000178	Oxford	4	1767
+E07000178	Oxford	5	146
+E07000179	South Oxfordshire	1	36075
+E07000179	South Oxfordshire	2	19008
+E07000179	South Oxfordshire	3	5413
+E07000179	South Oxfordshire	4	956
+E07000179	South Oxfordshire	5	45
+E07000180	Vale of White Horse	1	33434
+E07000180	Vale of White Horse	2	17813
+E07000180	Vale of White Horse	3	5252
+E07000180	Vale of White Horse	4	950
+E07000180	Vale of White Horse	5	49
+E07000181	West Oxfordshire	1	27166
+E07000181	West Oxfordshire	2	15276
+E07000181	West Oxfordshire	3	4656
+E07000181	West Oxfordshire	4	844
+E07000181	West Oxfordshire	5	40
+E07000187	Mendip	1	25860
+E07000187	Mendip	2	17103
+E07000187	Mendip	3	6059
+E07000187	Mendip	4	1211
+E07000187	Mendip	5	61
+E07000188	Sedgemoor	1	25589
+E07000188	Sedgemoor	2	18944
+E07000188	Sedgemoor	3	7577
+E07000188	Sedgemoor	4	1703
+E07000188	Sedgemoor	5	91
+E07000189	South Somerset	1	38321
+E07000189	South Somerset	2	26119
+E07000189	South Somerset	3	9454
+E07000189	South Somerset	4	1938
+E07000189	South Somerset	5	104
+E07000192	Cannock Chase	1	19804
+E07000192	Cannock Chase	2	14699
+E07000192	Cannock Chase	3	7105
+E07000192	Cannock Chase	4	1784
+E07000192	Cannock Chase	5	65
+E07000193	East Staffordshire	1	25318
+E07000193	East Staffordshire	2	17408
+E07000193	East Staffordshire	3	6879
+E07000193	East Staffordshire	4	1594
+E07000193	East Staffordshire	5	94
+E07000194	Lichfield	1	23731
+E07000194	Lichfield	2	14968
+E07000194	Lichfield	3	5762
+E07000194	Lichfield	4	1109
+E07000194	Lichfield	5	60
+E07000195	Newcastle-under-Lyme	1	24983
+E07000195	Newcastle-under-Lyme	2	18223
+E07000195	Newcastle-under-Lyme	3	8190
+E07000195	Newcastle-under-Lyme	4	1947
+E07000195	Newcastle-under-Lyme	5	80
+E07000196	South Staffordshire	1	23193
+E07000196	South Staffordshire	2	15515
+E07000196	South Staffordshire	3	6174
+E07000196	South Staffordshire	4	1204
+E07000196	South Staffordshire	5	35
+E07000197	Stafford	1	31816
+E07000197	Stafford	2	19638
+E07000197	Stafford	3	7075
+E07000197	Stafford	4	1440
+E07000197	Stafford	5	79
+E07000198	Staffordshire Moorlands	1	20892
+E07000198	Staffordshire Moorlands	2	14469
+E07000198	Staffordshire Moorlands	3	5822
+E07000198	Staffordshire Moorlands	4	1149
+E07000198	Staffordshire Moorlands	5	23
+E07000199	Tamworth	1	15032
+E07000199	Tamworth	2	11381
+E07000199	Tamworth	3	5225
+E07000199	Tamworth	4	1216
+E07000199	Tamworth	5	40
+E07000200	Babergh	1	20575
+E07000200	Babergh	2	13976
+E07000200	Babergh	3	4678
+E07000200	Babergh	4	933
+E07000200	Babergh	5	37
+E07000202	Ipswich	1	26896
+E07000202	Ipswich	2	20605
+E07000202	Ipswich	3	9331
+E07000202	Ipswich	4	2519
+E07000202	Ipswich	5	156
+E07000203	Mid Suffolk	1	23134
+E07000203	Mid Suffolk	2	15119
+E07000203	Mid Suffolk	3	5145
+E07000203	Mid Suffolk	4	904
+E07000203	Mid Suffolk	5	41
+E07000207	Elmbridge	1	34389
+E07000207	Elmbridge	2	15626
+E07000207	Elmbridge	3	4642
+E07000207	Elmbridge	4	876
+E07000207	Elmbridge	5	54
+E07000208	Epsom and Ewell	1	18039
+E07000208	Epsom and Ewell	2	9574
+E07000208	Epsom and Ewell	3	3057
+E07000208	Epsom and Ewell	4	596
+E07000208	Epsom and Ewell	5	55
+E07000209	Guildford	1	32183
+E07000209	Guildford	2	17103
+E07000209	Guildford	3	5312
+E07000209	Guildford	4	1074
+E07000209	Guildford	5	88
+E07000210	Mole Valley	1	21063
+E07000210	Mole Valley	2	11510
+E07000210	Mole Valley	3	3688
+E07000210	Mole Valley	4	794
+E07000210	Mole Valley	5	86
+E07000211	Reigate and Banstead	1	34148
+E07000211	Reigate and Banstead	2	18454
+E07000211	Reigate and Banstead	3	5919
+E07000211	Reigate and Banstead	4	1230
+E07000211	Reigate and Banstead	5	98
+E07000212	Runnymede	1	18603
+E07000212	Runnymede	2	11306
+E07000212	Runnymede	3	4106
+E07000212	Runnymede	4	773
+E07000212	Runnymede	5	50
+E07000213	Spelthorne	1	21283
+E07000213	Spelthorne	2	14028
+E07000213	Spelthorne	3	5260
+E07000213	Spelthorne	4	1145
+E07000213	Spelthorne	5	89
+E07000214	Surrey Heath	1	20857
+E07000214	Surrey Heath	2	11192
+E07000214	Surrey Heath	3	3293
+E07000214	Surrey Heath	4	626
+E07000214	Surrey Heath	5	40
+E07000215	Tandridge	1	19938
+E07000215	Tandridge	2	11272
+E07000215	Tandridge	3	3602
+E07000215	Tandridge	4	760
+E07000215	Tandridge	5	50
+E07000216	Waverley	1	31228
+E07000216	Waverley	2	15702
+E07000216	Waverley	3	4609
+E07000216	Waverley	4	864
+E07000216	Waverley	5	45
+E07000217	Woking	1	23292
+E07000217	Woking	2	12851
+E07000217	Woking	3	4289
+E07000217	Woking	4	929
+E07000217	Woking	5	76
+E07000218	North Warwickshire	1	13032
+E07000218	North Warwickshire	2	9634
+E07000218	North Warwickshire	3	3992
+E07000218	North Warwickshire	4	887
+E07000218	North Warwickshire	5	35
+E07000219	Nuneaton and Bedworth	1	25493
+E07000219	Nuneaton and Bedworth	2	19579
+E07000219	Nuneaton and Bedworth	3	9027
+E07000219	Nuneaton and Bedworth	4	2337
+E07000219	Nuneaton and Bedworth	5	150
+E07000220	Rugby	1	25096
+E07000220	Rugby	2	15539
+E07000220	Rugby	3	5231
+E07000220	Rugby	4	1106
+E07000220	Rugby	5	44
+E07000221	Stratford-on-Avon	1	33604
+E07000221	Stratford-on-Avon	2	18900
+E07000221	Stratford-on-Avon	3	5822
+E07000221	Stratford-on-Avon	4	1108
+E07000221	Stratford-on-Avon	5	30
+E07000222	Warwick	1	35954
+E07000222	Warwick	2	18917
+E07000222	Warwick	3	6230
+E07000222	Warwick	4	1406
+E07000222	Warwick	5	111
+E07000223	Adur	1	12584
+E07000223	Adur	2	9872
+E07000223	Adur	3	4194
+E07000223	Adur	4	936
+E07000223	Adur	5	92
+E07000224	Arun	1	33371
+E07000224	Arun	2	26510
+E07000224	Arun	3	10515
+E07000224	Arun	4	2074
+E07000224	Arun	5	193
+E07000225	Chichester	1	28937
+E07000225	Chichester	2	18012
+E07000225	Chichester	3	5917
+E07000225	Chichester	4	1184
+E07000225	Chichester	5	68
+E07000226	Crawley	1	20934
+E07000226	Crawley	2	15812
+E07000226	Crawley	3	6931
+E07000226	Crawley	4	1708
+E07000226	Crawley	5	119
+E07000227	Horsham	1	35372
+E07000227	Horsham	2	19802
+E07000227	Horsham	3	6037
+E07000227	Horsham	4	1071
+E07000227	Horsham	5	88
+E07000228	Mid Sussex	1	36299
+E07000228	Mid Sussex	2	19835
+E07000228	Mid Sussex	3	6078
+E07000228	Mid Sussex	4	1068
+E07000228	Mid Sussex	5	69
+E07000229	Worthing	1	23654
+E07000229	Worthing	2	17226
+E07000229	Worthing	3	6875
+E07000229	Worthing	4	1599
+E07000229	Worthing	5	183
+E07000234	Bromsgrove	1	22586
+E07000234	Bromsgrove	2	13220
+E07000234	Bromsgrove	3	4557
+E07000234	Bromsgrove	4	868
+E07000234	Bromsgrove	5	33
+E07000235	Malvern Hills	1	18380
+E07000235	Malvern Hills	2	11642
+E07000235	Malvern Hills	3	4108
+E07000235	Malvern Hills	4	731
+E07000235	Malvern Hills	5	33
+E07000236	Redditch	1	17057
+E07000236	Redditch	2	12511
+E07000236	Redditch	3	5375
+E07000236	Redditch	4	1338
+E07000236	Redditch	5	97
+E07000237	Worcester	1	22399
+E07000237	Worcester	2	14795
+E07000237	Worcester	3	5865
+E07000237	Worcester	4	1553
+E07000237	Worcester	5	108
+E07000238	Wychavon	1	29626
+E07000238	Wychavon	2	19350
+E07000238	Wychavon	3	6922
+E07000238	Wychavon	4	1375
+E07000238	Wychavon	5	83
+E07000239	Wyre Forest	1	20798
+E07000239	Wyre Forest	2	15760
+E07000239	Wyre Forest	3	6928
+E07000239	Wyre Forest	4	1730
+E07000239	Wyre Forest	5	106
+E07000240	St Albans	1	35772
+E07000240	St Albans	2	17068
+E07000240	St Albans	3	5007
+E07000240	St Albans	4	1084
+E07000240	St Albans	5	59
+E07000241	Welwyn Hatfield	1	23806
+E07000241	Welwyn Hatfield	2	15375
+E07000241	Welwyn Hatfield	3	5712
+E07000241	Welwyn Hatfield	4	1240
+E07000241	Welwyn Hatfield	5	76
+E07000242	East Hertfordshire	1	35445
+E07000242	East Hertfordshire	2	19214
+E07000242	East Hertfordshire	3	6201
+E07000242	East Hertfordshire	4	1121
+E07000242	East Hertfordshire	5	40
+E07000243	Stevenage	1	17418
+E07000243	Stevenage	2	12285
+E07000243	Stevenage	3	5349
+E07000243	Stevenage	4	1332
+E07000243	Stevenage	5	125
+E07000244	East Suffolk	1	51925
+E07000244	East Suffolk	2	39292
+E07000244	East Suffolk	3	15733
+E07000244	East Suffolk	4	3578
+E07000244	East Suffolk	5	219
+E07000245	West Suffolk	1	38855
+E07000245	West Suffolk	2	28245
+E07000245	West Suffolk	3	9611
+E07000245	West Suffolk	4	1926
+E07000245	West Suffolk	5	106
+E07000246	Somerset West and Taunton	1	35265
+E07000246	Somerset West and Taunton	2	23861
+E07000246	Somerset West and Taunton	3	8879
+E07000246	Somerset West and Taunton	4	1910
+E07000246	Somerset West and Taunton	5	71
+E08000001	Bolton	1	51290
+E08000001	Bolton	2	40539
+E08000001	Bolton	3	20373
+E08000001	Bolton	4	6244
+E08000001	Bolton	5	343
+E08000002	Bury	1	38309
+E08000002	Bury	2	27078
+E08000002	Bury	3	11875
+E08000002	Bury	4	3263
+E08000002	Bury	5	170
+E08000003	Manchester	1	93533
+E08000003	Manchester	2	70524
+E08000003	Manchester	3	36937
+E08000003	Manchester	4	12983
+E08000003	Manchester	5	752
+E08000004	Oldham	1	38130
+E08000004	Oldham	2	32275
+E08000004	Oldham	3	16920
+E08000004	Oldham	4	5520
+E08000004	Oldham	5	292
+E08000005	Rochdale	1	38481
+E08000005	Rochdale	2	30724
+E08000005	Rochdale	3	15621
+E08000005	Rochdale	4	5084
+E08000005	Rochdale	5	313
+E08000006	Salford	1	53457
+E08000006	Salford	2	37170
+E08000006	Salford	3	18229
+E08000006	Salford	4	5963
+E08000006	Salford	5	297
+E08000007	Stockport	1	64926
+E08000007	Stockport	2	40720
+E08000007	Stockport	3	16441
+E08000007	Stockport	4	4294
+E08000007	Stockport	5	267
+E08000008	Tameside	1	42979
+E08000008	Tameside	2	34038
+E08000008	Tameside	3	17056
+E08000008	Tameside	4	5142
+E08000008	Tameside	5	312
+E08000009	Trafford	1	51885
+E08000009	Trafford	2	29699
+E08000009	Trafford	3	11666
+E08000009	Trafford	4	2883
+E08000009	Trafford	5	136
+E08000010	Wigan	1	66618
+E08000010	Wigan	2	46951
+E08000010	Wigan	3	22904
+E08000010	Wigan	4	6380
+E08000010	Wigan	5	252
+E08000011	Knowsley	1	26952
+E08000011	Knowsley	2	21374
+E08000011	Knowsley	3	12688
+E08000011	Knowsley	4	4856
+E08000011	Knowsley	5	203
+E08000012	Liverpool	1	86264
+E08000012	Liverpool	2	67761
+E08000012	Liverpool	3	38407
+E08000012	Liverpool	4	14386
+E08000012	Liverpool	5	673
+E08000013	St. Helens	1	35793
+E08000013	St. Helens	2	27070
+E08000013	St. Helens	3	13852
+E08000013	St. Helens	4	4161
+E08000013	St. Helens	5	137
+E08000014	Sefton	1	55668
+E08000014	Sefton	2	41850
+E08000014	Sefton	3	19817
+E08000014	Sefton	4	5463
+E08000014	Sefton	5	275
+E08000015	Wirral	1	65530
+E08000015	Wirral	2	47854
+E08000015	Wirral	3	22925
+E08000015	Wirral	4	6645
+E08000015	Wirral	5	298
+E08000016	Barnsley	1	46238
+E08000016	Barnsley	2	36682
+E08000016	Barnsley	3	19079
+E08000016	Barnsley	4	5815
+E08000016	Barnsley	5	239
+E08000017	Doncaster	1	58391
+E08000017	Doncaster	2	46328
+E08000017	Doncaster	3	22336
+E08000017	Doncaster	4	6171
+E08000017	Doncaster	5	253
+E08000018	Rotherham	1	49653
+E08000018	Rotherham	2	38666
+E08000018	Rotherham	3	19862
+E08000018	Rotherham	4	5520
+E08000018	Rotherham	5	224
+E08000019	Sheffield	1	105238
+E08000019	Sheffield	2	78863
+E08000019	Sheffield	3	36628
+E08000019	Sheffield	4	10582
+E08000019	Sheffield	5	639
+E08000021	Newcastle upon Tyne	1	56768
+E08000021	Newcastle upon Tyne	2	40169
+E08000021	Newcastle upon Tyne	3	19418
+E08000021	Newcastle upon Tyne	4	6149
+E08000021	Newcastle upon Tyne	5	293
+E08000022	North Tyneside	1	47576
+E08000022	North Tyneside	2	31265
+E08000022	North Tyneside	3	13730
+E08000022	North Tyneside	4	3546
+E08000022	North Tyneside	5	119
+E08000023	South Tyneside	1	29586
+E08000023	South Tyneside	2	23302
+E08000023	South Tyneside	3	11971
+E08000023	South Tyneside	4	3323
+E08000023	South Tyneside	5	105
+E08000024	Sunderland	1	50665
+E08000024	Sunderland	2	42435
+E08000024	Sunderland	3	22163
+E08000024	Sunderland	4	6645
+E08000024	Sunderland	5	269
+E08000025	Birmingham	1	171117
+E08000025	Birmingham	2	146765
+E08000025	Birmingham	3	78859
+E08000025	Birmingham	4	25045
+E08000025	Birmingham	5	1670
+E08000026	Coventry	1	60360
+E08000026	Coventry	2	45659
+E08000026	Coventry	3	21411
+E08000026	Coventry	4	6219
+E08000026	Coventry	5	491
+E08000027	Dudley	1	60524
+E08000027	Dudley	2	47358
+E08000027	Dudley	3	23098
+E08000027	Dudley	4	5837
+E08000027	Dudley	5	256
+E08000028	Sandwell	1	49389
+E08000028	Sandwell	2	46055
+E08000028	Sandwell	3	26244
+E08000028	Sandwell	4	8161
+E08000028	Sandwell	5	395
+E08000029	Solihull	1	45378
+E08000029	Solihull	2	28916
+E08000029	Solihull	3	12109
+E08000029	Solihull	4	2915
+E08000029	Solihull	5	165
+E08000030	Walsall	1	45129
+E08000030	Walsall	2	39289
+E08000030	Walsall	3	21212
+E08000030	Walsall	4	6280
+E08000030	Walsall	5	316
+E08000031	Wolverhampton	1	42414
+E08000031	Wolverhampton	2	37053
+E08000031	Wolverhampton	3	19711
+E08000031	Wolverhampton	4	5649
+E08000031	Wolverhampton	5	314
+E08000032	Bradford	1	90141
+E08000032	Bradford	2	72227
+E08000032	Bradford	3	35313
+E08000032	Bradford	4	11416
+E08000032	Bradford	5	770
+E08000033	Calderdale	1	43225
+E08000033	Calderdale	2	29923
+E08000033	Calderdale	3	13398
+E08000033	Calderdale	4	3731
+E08000033	Calderdale	5	199
+E08000034	Kirklees	1	82995
+E08000034	Kirklees	2	59593
+E08000034	Kirklees	3	27052
+E08000034	Kirklees	4	7881
+E08000034	Kirklees	5	469
+E08000035	Leeds	1	164958
+E08000035	Leeds	2	112338
+E08000035	Leeds	3	49084
+E08000035	Leeds	4	14124
+E08000035	Leeds	5	962
+E08000036	Wakefield	1	68485
+E08000036	Wakefield	2	51797
+E08000036	Wakefield	3	25294
+E08000036	Wakefield	4	7240
+E08000036	Wakefield	5	260
+E08000037	Gateshead	1	39877
+E08000037	Gateshead	2	29733
+E08000037	Gateshead	3	14850
+E08000037	Gateshead	4	4376
+E08000037	Gateshead	5	163
+E09000001	City of London	1	2937
+E09000001	City of London	2	1547
+E09000001	City of London	3	347
+E09000001	City of London	4	75
+E09000001	City of London	5	8
+E09000002	Barking and Dagenham	1	27781
+E09000002	Barking and Dagenham	2	27396
+E09000002	Barking and Dagenham	3	14090
+E09000002	Barking and Dagenham	4	4348
+E09000002	Barking and Dagenham	5	287
+E09000003	Barnet	1	73825
+E09000003	Barnet	2	49136
+E09000003	Barnet	3	19877
+E09000003	Barnet	4	5415
+E09000003	Barnet	5	668
+E09000004	Bexley	1	46238
+E09000004	Bexley	2	32625
+E09000004	Bexley	3	13232
+E09000004	Bexley	4	2998
+E09000004	Bexley	5	206
+E09000005	Brent	1	47376
+E09000005	Brent	2	43300
+E09000005	Brent	3	21017
+E09000005	Brent	4	6328
+E09000005	Brent	5	591
+E09000006	Bromley	1	74219
+E09000006	Bromley	2	42434
+E09000006	Bromley	3	15360
+E09000006	Bromley	4	3586
+E09000006	Bromley	5	228
+E09000007	Camden	1	44082
+E09000007	Camden	2	29601
+E09000007	Camden	3	13535
+E09000007	Camden	4	4938
+E09000007	Camden	5	603
+E09000008	Croydon	1	73406
+E09000008	Croydon	2	51772
+E09000008	Croydon	3	21635
+E09000008	Croydon	4	5581
+E09000008	Croydon	5	552
+E09000009	Ealing	1	61529
+E09000009	Ealing	2	45650
+E09000009	Ealing	3	20275
+E09000009	Ealing	4	5686
+E09000009	Ealing	5	518
+E09000010	Enfield	1	51013
+E09000010	Enfield	2	43120
+E09000010	Enfield	3	20209
+E09000010	Enfield	4	6012
+E09000010	Enfield	5	566
+E09000011	Greenwich	1	55023
+E09000011	Greenwich	2	36622
+E09000011	Greenwich	3	16597
+E09000011	Greenwich	4	5382
+E09000011	Greenwich	5	428
+E09000012	Hackney	1	47686
+E09000012	Hackney	2	34486
+E09000012	Hackney	3	16971
+E09000012	Hackney	4	6333
+E09000012	Hackney	5	605
+E09000013	Hammersmith and Fulham	1	41748
+E09000013	Hammersmith and Fulham	2	25243
+E09000013	Hammersmith and Fulham	3	10555
+E09000013	Hammersmith and Fulham	4	3319
+E09000013	Hammersmith and Fulham	5	379
+E09000014	Haringey	1	45524
+E09000014	Haringey	2	35580
+E09000014	Haringey	3	17629
+E09000014	Haringey	4	5755
+E09000014	Haringey	5	607
+E09000015	Harrow	1	43681
+E09000015	Harrow	2	30953
+E09000015	Harrow	3	12012
+E09000015	Harrow	4	2763
+E09000015	Harrow	5	233
+E09000016	Havering	1	47903
+E09000016	Havering	2	34966
+E09000016	Havering	3	14859
+E09000016	Havering	4	3337
+E09000016	Havering	5	212
+E09000017	Hillingdon	1	50136
+E09000017	Hillingdon	2	38207
+E09000017	Hillingdon	3	16448
+E09000017	Hillingdon	4	4110
+E09000017	Hillingdon	5	327
+E09000018	Hounslow	1	45406
+E09000018	Hounslow	2	36270
+E09000018	Hounslow	3	16488
+E09000018	Hounslow	4	4377
+E09000018	Hounslow	5	420
+E09000019	Islington	1	46657
+E09000019	Islington	2	29403
+E09000019	Islington	3	14577
+E09000019	Islington	4	5409
+E09000019	Islington	5	450
+E09000020	Kensington and Chelsea	1	35174
+E09000020	Kensington and Chelsea	2	20245
+E09000020	Kensington and Chelsea	3	8121
+E09000020	Kensington and Chelsea	4	2918
+E09000020	Kensington and Chelsea	5	426
+E09000021	Kingston upon Thames	1	36639
+E09000021	Kingston upon Thames	2	20274
+E09000021	Kingston upon Thames	3	7045
+E09000021	Kingston upon Thames	4	1552
+E09000021	Kingston upon Thames	5	116
+E09000022	Lambeth	1	67366
+E09000022	Lambeth	2	42725
+E09000022	Lambeth	3	18625
+E09000022	Lambeth	4	5499
+E09000022	Lambeth	5	473
+E09000023	Lewisham	1	57783
+E09000023	Lewisham	2	39762
+E09000023	Lewisham	3	18556
+E09000023	Lewisham	4	5755
+E09000023	Lewisham	5	536
+E09000024	Merton	1	44057
+E09000024	Merton	2	25596
+E09000024	Merton	3	9632
+E09000024	Merton	4	2276
+E09000024	Merton	5	168
+E09000025	Newham	1	45399
+E09000025	Newham	2	41296
+E09000025	Newham	3	21230
+E09000025	Newham	4	7081
+E09000025	Newham	5	501
+E09000026	Redbridge	1	47994
+E09000026	Redbridge	2	36254
+E09000026	Redbridge	3	15319
+E09000026	Redbridge	4	3869
+E09000026	Redbridge	5	277
+E09000027	Richmond upon Thames	1	49261
+E09000027	Richmond upon Thames	2	22644
+E09000027	Richmond upon Thames	3	6992
+E09000027	Richmond upon Thames	4	1678
+E09000027	Richmond upon Thames	5	130
+E09000028	Southwark	1	63507
+E09000028	Southwark	2	41817
+E09000028	Southwark	3	19018
+E09000028	Southwark	4	6066
+E09000028	Southwark	5	410
+E09000029	Sutton	1	41892
+E09000029	Sutton	2	27257
+E09000029	Sutton	3	10463
+E09000029	Sutton	4	2549
+E09000029	Sutton	5	187
+E09000030	Tower Hamlets	1	55936
+E09000030	Tower Hamlets	2	38337
+E09000030	Tower Hamlets	3	18685
+E09000030	Tower Hamlets	4	7054
+E09000030	Tower Hamlets	5	527
+E09000031	Waltham Forest	1	46576
+E09000031	Waltham Forest	2	34786
+E09000031	Waltham Forest	3	16559
+E09000031	Waltham Forest	4	4600
+E09000031	Waltham Forest	5	380
+E09000032	Wandsworth	1	80186
+E09000032	Wandsworth	2	38272
+E09000032	Wandsworth	3	14425
+E09000032	Wandsworth	4	4113
+E09000032	Wandsworth	5	396
+E09000033	Westminster	1	47540
+E09000033	Westminster	2	28839
+E09000033	Westminster	3	12728
+E09000033	Westminster	4	5025
+E09000033	Westminster	5	683
+W06000001	Isle of Anglesey	1	14683
+W06000001	Isle of Anglesey	2	10519
+W06000001	Isle of Anglesey	3	4533
+W06000001	Isle of Anglesey	4	1057
+W06000001	Isle of Anglesey	5	30
+W06000002	Gwynedd	1	25361
+W06000002	Gwynedd	2	17040
+W06000002	Gwynedd	3	7064
+W06000002	Gwynedd	4	1573
+W06000002	Gwynedd	5	67
+W06000003	Conwy	1	24098
+W06000003	Conwy	2	18173
+W06000003	Conwy	3	7918
+W06000003	Conwy	4	1956
+W06000003	Conwy	5	90
+W06000004	Denbighshire	1	18992
+W06000004	Denbighshire	2	14579
+W06000004	Denbighshire	3	6929
+W06000004	Denbighshire	4	1785
+W06000004	Denbighshire	5	102
+W06000005	Flintshire	1	32748
+W06000005	Flintshire	2	22435
+W06000005	Flintshire	3	9486
+W06000005	Flintshire	4	2155
+W06000005	Flintshire	5	87
+W06000006	Wrexham	1	27134
+W06000006	Wrexham	2	19578
+W06000006	Wrexham	3	8774
+W06000006	Wrexham	4	2333
+W06000006	Wrexham	5	95
+W06000008	Ceredigion	1	14553
+W06000008	Ceredigion	2	11019
+W06000008	Ceredigion	3	4395
+W06000008	Ceredigion	4	898
+W06000008	Ceredigion	5	28
+W06000009	Pembrokeshire	1	25547
+W06000009	Pembrokeshire	2	19262
+W06000009	Pembrokeshire	3	8565
+W06000009	Pembrokeshire	4	2017
+W06000009	Pembrokeshire	5	97
+W06000010	Carmarthenshire	1	37050
+W06000010	Carmarthenshire	2	27869
+W06000010	Carmarthenshire	3	13425
+W06000010	Carmarthenshire	4	3324
+W06000010	Carmarthenshire	5	91
+W06000011	Swansea	1	47764
+W06000011	Swansea	2	34960
+W06000011	Swansea	3	16952
+W06000011	Swansea	4	5106
+W06000011	Swansea	5	180
+W06000012	Neath Port Talbot	1	25834
+W06000012	Neath Port Talbot	2	20716
+W06000012	Neath Port Talbot	3	11856
+W06000012	Neath Port Talbot	4	3858
+W06000012	Neath Port Talbot	5	109
+W06000013	Bridgend	1	28315
+W06000013	Bridgend	2	20477
+W06000013	Bridgend	3	10372
+W06000013	Bridgend	4	3104
+W06000013	Bridgend	5	91
+W06000014	Vale of Glamorgan	1	29294
+W06000014	Vale of Glamorgan	2	18575
+W06000014	Vale of Glamorgan	3	7648
+W06000014	Vale of Glamorgan	4	1866
+W06000014	Vale of Glamorgan	5	68
+W06000015	Cardiff	1	72088
+W06000015	Cardiff	2	46638
+W06000015	Cardiff	3	21326
+W06000015	Cardiff	4	6862
+W06000015	Cardiff	5	419
+W06000016	Rhondda Cynon Taf	1	43372
+W06000016	Rhondda Cynon Taf	2	34175
+W06000016	Rhondda Cynon Taf	3	19521
+W06000016	Rhondda Cynon Taf	4	6066
+W06000016	Rhondda Cynon Taf	5	203
+W06000018	Caerphilly	1	32079
+W06000018	Caerphilly	2	25365
+W06000018	Caerphilly	3	14321
+W06000018	Caerphilly	4	4358
+W06000018	Caerphilly	5	134
+W06000019	Blaenau Gwent	1	11632
+W06000019	Blaenau Gwent	2	10104
+W06000019	Blaenau Gwent	3	6291
+W06000019	Blaenau Gwent	4	2256
+W06000019	Blaenau Gwent	5	57
+W06000020	Torfaen	1	17016
+W06000020	Torfaen	2	13738
+W06000020	Torfaen	3	7241
+W06000020	Torfaen	4	2166
+W06000020	Torfaen	5	80
+W06000021	Monmouthshire	1	21144
+W06000021	Monmouthshire	2	13592
+W06000021	Monmouthshire	3	5031
+W06000021	Monmouthshire	4	1115
+W06000021	Monmouthshire	5	43
+W06000022	Newport	1	30293
+W06000022	Newport	2	21796
+W06000022	Newport	3	10572
+W06000022	Newport	4	3204
+W06000022	Newport	5	189
+W06000023	Powys	1	29223
+W06000023	Powys	2	20871
+W06000023	Powys	3	8317
+W06000023	Powys	4	1713
+W06000023	Powys	5	58
+W06000024	Merthyr Tydfil	1	10364
+W06000024	Merthyr Tydfil	2	8578
+W06000024	Merthyr Tydfil	3	4955
+W06000024	Merthyr Tydfil	4	1811
+W06000024	Merthyr Tydfil	5	77
