@@ -1,13 +1,268 @@
-Code,Borough,tenure of household,Value
-E07000200,Babergh,Does not apply,0
-E07000200,Babergh,Owned: Owns outright,17460
-E07000200,Babergh,Owned: Owns with a mortgage or loan,11098
-E07000200,Babergh,Shared ownership: Shared ownership,289
-E07000200,Babergh,Social rented: Rents from council or Local Authority,3370
-E07000200,Babergh,Social rented: Other social rented,1963
-E07000200,Babergh,Private rented: Private landlord or letting agency,4910
-E07000200,Babergh,Private rented: Other private rented,1049
-E07000200,Babergh,Lives rent free,61
+Code,Borough,tenure of household,ValueaCode	Borough	tenure of household	Value
+E09000002	Barking and Dagenham	Owned: Owns outright	11130
+E09000002	Barking and Dagenham	Owned: Owns with a mortgage or loan	20189
+E09000002	Barking and Dagenham	Shared ownership: Shared ownership	1274
+E09000002	Barking and Dagenham	Social rented: Rents from council or Local Authority	18077
+E09000002	Barking and Dagenham	Social rented: Other social rented	5196
+E09000002	Barking and Dagenham	Private rented: Private landlord or letting agency	16443
+E09000002	Barking and Dagenham	Private rented: Other private rented	1447
+E09000002	Barking and Dagenham	Lives rent free	146
+E09000003	Barnet	Owned: Owns outright	39083
+E09000003	Barnet	Owned: Owns with a mortgage or loan	39324
+E09000003	Barnet	Shared ownership: Shared ownership	1633
+E09000003	Barnet	Social rented: Rents from council or Local Authority	10030
+E09000003	Barnet	Social rented: Other social rented	10004
+E09000003	Barnet	Private rented: Private landlord or letting agency	45180
+E09000003	Barnet	Private rented: Other private rented	3525
+E09000003	Barnet	Lives rent free	138
+E09000004	Bexley	Owned: Owns outright	31210
+E09000004	Bexley	Owned: Owns with a mortgage or loan	34207
+E09000004	Bexley	Shared ownership: Shared ownership	1263
+E09000004	Bexley	Social rented: Rents from council or Local Authority	2491
+E09000004	Bexley	Social rented: Other social rented	11486
+E09000004	Bexley	Private rented: Private landlord or letting agency	13078
+E09000004	Bexley	Private rented: Other private rented	1500
+E09000004	Bexley	Lives rent free	65
+E09000005	Brent	Owned: Owns outright	23933
+E09000005	Brent	Owned: Owns with a mortgage or loan	21660
+E09000005	Brent	Shared ownership: Shared ownership	2246
+E09000005	Brent	Social rented: Rents from council or Local Authority	10444
+E09000005	Brent	Social rented: Other social rented	17432
+E09000005	Brent	Private rented: Private landlord or letting agency	39732
+E09000005	Brent	Private rented: Other private rented	2994
+E09000005	Brent	Lives rent free	171
+E09000006	Bromley	Owned: Owns outright	44794
+E09000006	Bromley	Owned: Owns with a mortgage or loan	48234
+E09000006	Bromley	Shared ownership: Shared ownership	1166
+E09000006	Bromley	Social rented: Rents from council or Local Authority	2090
+E09000006	Bromley	Social rented: Other social rented	15836
+E09000006	Bromley	Private rented: Private landlord or letting agency	21418
+E09000006	Bromley	Private rented: Other private rented	2243
+E09000006	Bromley	Lives rent free	47
+E09000007	Camden	Owned: Owns outright	14780
+E09000007	Camden	Owned: Owns with a mortgage or loan	12727
+E09000007	Camden	Shared ownership: Shared ownership	715
+E09000007	Camden	Social rented: Rents from council or Local Authority	21051
+E09000007	Camden	Social rented: Other social rented	10199
+E09000007	Camden	Private rented: Private landlord or letting agency	30382
+E09000007	Camden	Private rented: Other private rented	2630
+E09000007	Camden	Lives rent free	274
+E09000001	City of London	Owned: Owns outright	1114
+E09000001	City of London	Owned: Owns with a mortgage or loan	680
+E09000001	City of London	Shared ownership: Shared ownership	12
+E09000001	City of London	Social rented: Rents from council or Local Authority	449
+E09000001	City of London	Social rented: Other social rented	281
+E09000001	City of London	Private rented: Private landlord or letting agency	2064
+E09000001	City of London	Private rented: Other private rented	309
+E09000001	City of London	Lives rent free	5
+E09000008	Croydon	Owned: Owns outright	36992
+E09000008	Croydon	Owned: Owns with a mortgage or loan	46675
+E09000008	Croydon	Shared ownership: Shared ownership	2183
+E09000008	Croydon	Social rented: Rents from council or Local Authority	14769
+E09000008	Croydon	Social rented: Other social rented	12602
+E09000008	Croydon	Private rented: Private landlord or letting agency	36484
+E09000008	Croydon	Private rented: Other private rented	2957
+E09000008	Croydon	Lives rent free	283
+E09000009	Ealing	Owned: Owns outright	30275
+E09000009	Ealing	Owned: Owns with a mortgage or loan	31539
+E09000009	Ealing	Shared ownership: Shared ownership	2658
+E09000009	Ealing	Social rented: Rents from council or Local Authority	11326
+E09000009	Ealing	Social rented: Other social rented	12056
+E09000009	Ealing	Private rented: Private landlord or letting agency	42063
+E09000009	Ealing	Private rented: Other private rented	3427
+E09000009	Ealing	Lives rent free	313
+E09000010	Enfield	Owned: Owns outright	31740
+E09000010	Enfield	Owned: Owns with a mortgage or loan	31607
+E09000010	Enfield	Shared ownership: Shared ownership	1319
+E09000010	Enfield	Social rented: Rents from council or Local Authority	12530
+E09000010	Enfield	Social rented: Other social rented	8043
+E09000010	Enfield	Private rented: Private landlord or letting agency	32773
+E09000010	Enfield	Private rented: Other private rented	2615
+E09000010	Enfield	Lives rent free	296
+E09000011	Greenwich	Owned: Owns outright	18473
+E09000011	Greenwich	Owned: Owns with a mortgage or loan	28454
+E09000011	Greenwich	Shared ownership: Shared ownership	2471
+E09000011	Greenwich	Social rented: Rents from council or Local Authority	21257
+E09000011	Greenwich	Social rented: Other social rented	14070
+E09000011	Greenwich	Private rented: Private landlord or letting agency	26863
+E09000011	Greenwich	Private rented: Other private rented	2225
+E09000011	Greenwich	Lives rent free	238
+E09000012	Hackney	Owned: Owns outright	10263
+E09000012	Hackney	Owned: Owns with a mortgage or loan	15803
+E09000012	Hackney	Shared ownership: Shared ownership	2664
+E09000012	Hackney	Social rented: Rents from council or Local Authority	21943
+E09000012	Hackney	Social rented: Other social rented	21002
+E09000012	Hackney	Private rented: Private landlord or letting agency	31943
+E09000012	Hackney	Private rented: Other private rented	2204
+E09000012	Hackney	Lives rent free	259
+E09000013	Hammersmith and Fulham	Owned: Owns outright	12483
+E09000013	Hammersmith and Fulham	Owned: Owns with a mortgage or loan	13607
+E09000013	Hammersmith and Fulham	Shared ownership: Shared ownership	1208
+E09000013	Hammersmith and Fulham	Social rented: Rents from council or Local Authority	11840
+E09000013	Hammersmith and Fulham	Social rented: Other social rented	12391
+E09000013	Hammersmith and Fulham	Private rented: Private landlord or letting agency	27284
+E09000013	Hammersmith and Fulham	Private rented: Other private rented	2274
+E09000013	Hammersmith and Fulham	Lives rent free	157
+E09000014	Haringey	Owned: Owns outright	18141
+E09000014	Haringey	Owned: Owns with a mortgage or loan	20975
+E09000014	Haringey	Shared ownership: Shared ownership	1732
+E09000014	Haringey	Social rented: Rents from council or Local Authority	15630
+E09000014	Haringey	Social rented: Other social rented	10844
+E09000014	Haringey	Private rented: Private landlord or letting agency	35052
+E09000014	Haringey	Private rented: Other private rented	2324
+E09000014	Haringey	Lives rent free	393
+E09000015	Harrow	Owned: Owns outright	26947
+E09000015	Harrow	Owned: Owns with a mortgage or loan	25743
+E09000015	Harrow	Shared ownership: Shared ownership	1007
+E09000015	Harrow	Social rented: Rents from council or Local Authority	4977
+E09000015	Harrow	Social rented: Other social rented	4321
+E09000015	Harrow	Private rented: Private landlord or letting agency	24354
+E09000015	Harrow	Private rented: Other private rented	2141
+E09000015	Harrow	Lives rent free	152
+E09000016	Havering	Owned: Owns outright	34918
+E09000016	Havering	Owned: Owns with a mortgage or loan	35461
+E09000016	Havering	Shared ownership: Shared ownership	976
+E09000016	Havering	Social rented: Rents from council or Local Authority	9423
+E09000016	Havering	Social rented: Other social rented	4384
+E09000016	Havering	Private rented: Private landlord or letting agency	14452
+E09000016	Havering	Private rented: Other private rented	1567
+E09000016	Havering	Lives rent free	95
+E09000017	Hillingdon	Owned: Owns outright	28994
+E09000017	Hillingdon	Owned: Owns with a mortgage or loan	32837
+E09000017	Hillingdon	Shared ownership: Shared ownership	1373
+E09000017	Hillingdon	Social rented: Rents from council or Local Authority	10179
+E09000017	Hillingdon	Social rented: Other social rented	7434
+E09000017	Hillingdon	Private rented: Private landlord or letting agency	25692
+E09000017	Hillingdon	Private rented: Other private rented	2584
+E09000017	Hillingdon	Lives rent free	135
+E09000018	Hounslow	Owned: Owns outright	21761
+E09000018	Hounslow	Owned: Owns with a mortgage or loan	25283
+E09000018	Hounslow	Shared ownership: Shared ownership	2225
+E09000018	Hounslow	Social rented: Rents from council or Local Authority	13251
+E09000018	Hounslow	Social rented: Other social rented	8367
+E09000018	Hounslow	Private rented: Private landlord or letting agency	29537
+E09000018	Hounslow	Private rented: Other private rented	2251
+E09000018	Hounslow	Lives rent free	286
+E09000019	Islington	Owned: Owns outright	11151
+E09000019	Islington	Owned: Owns with a mortgage or loan	14589
+E09000019	Islington	Shared ownership: Shared ownership	1580
+E09000019	Islington	Social rented: Rents from council or Local Authority	24081
+E09000019	Islington	Social rented: Other social rented	14706
+E09000019	Islington	Private rented: Private landlord or letting agency	28084
+E09000019	Islington	Private rented: Other private rented	1995
+E09000019	Islington	Lives rent free	310
+E09000020	Kensington and Chelsea	Owned: Owns outright	13301
+E09000020	Kensington and Chelsea	Owned: Owns with a mortgage or loan	7890
+E09000020	Kensington and Chelsea	Shared ownership: Shared ownership	676
+E09000020	Kensington and Chelsea	Social rented: Rents from council or Local Authority	7154
+E09000020	Kensington and Chelsea	Social rented: Other social rented	11276
+E09000020	Kensington and Chelsea	Private rented: Private landlord or letting agency	23560
+E09000020	Kensington and Chelsea	Private rented: Other private rented	2900
+E09000020	Kensington and Chelsea	Lives rent free	127
+E09000021	Kingston upon Thames	Owned: Owns outright	18519
+E09000021	Kingston upon Thames	Owned: Owns with a mortgage or loan	21418
+E09000021	Kingston upon Thames	Shared ownership: Shared ownership	460
+E09000021	Kingston upon Thames	Social rented: Rents from council or Local Authority	4647
+E09000021	Kingston upon Thames	Social rented: Other social rented	2597
+E09000021	Kingston upon Thames	Private rented: Private landlord or letting agency	16535
+E09000021	Kingston upon Thames	Private rented: Other private rented	1376
+E09000021	Kingston upon Thames	Lives rent free	76
+E09000022	Lambeth	Owned: Owns outright	16180
+E09000022	Lambeth	Owned: Owns with a mortgage or loan	28289
+E09000022	Lambeth	Shared ownership: Shared ownership	2441
+E09000022	Lambeth	Social rented: Rents from council or Local Authority	24126
+E09000022	Lambeth	Social rented: Other social rented	21117
+E09000022	Lambeth	Private rented: Private landlord or letting agency	39228
+E09000022	Lambeth	Private rented: Other private rented	3101
+E09000022	Lambeth	Lives rent free	206
+E09000023	Lewisham	Owned: Owns outright	18853
+E09000023	Lewisham	Owned: Owns with a mortgage or loan	32377
+E09000023	Lewisham	Shared ownership: Shared ownership	1944
+E09000023	Lewisham	Social rented: Rents from council or Local Authority	16045
+E09000023	Lewisham	Social rented: Other social rented	19708
+E09000023	Lewisham	Private rented: Private landlord or letting agency	30797
+E09000023	Lewisham	Private rented: Other private rented	2492
+E09000023	Lewisham	Lives rent free	177
+E09000024	Merton	Owned: Owns outright	20695
+E09000024	Merton	Owned: Owns with a mortgage or loan	24773
+E09000024	Merton	Shared ownership: Shared ownership	869
+E09000024	Merton	Social rented: Rents from council or Local Authority	2342
+E09000024	Merton	Social rented: Other social rented	9257
+E09000024	Merton	Private rented: Private landlord or letting agency	21998
+E09000024	Merton	Private rented: Other private rented	1750
+E09000024	Merton	Lives rent free	42
+E09000025	Newham	Owned: Owns outright	14695
+E09000025	Newham	Owned: Owns with a mortgage or loan	20884
+E09000025	Newham	Shared ownership: Shared ownership	2739
+E09000025	Newham	Social rented: Rents from council or Local Authority	17989
+E09000025	Newham	Social rented: Other social rented	14401
+E09000025	Newham	Private rented: Private landlord or letting agency	41391
+E09000025	Newham	Private rented: Other private rented	3088
+E09000025	Newham	Lives rent free	324
+E09000026	Redbridge	Owned: Owns outright	27956
+E09000026	Redbridge	Owned: Owns with a mortgage or loan	31265
+E09000026	Redbridge	Shared ownership: Shared ownership	983
+E09000026	Redbridge	Social rented: Rents from council or Local Authority	6604
+E09000026	Redbridge	Social rented: Other social rented	5103
+E09000026	Redbridge	Private rented: Private landlord or letting agency	29079
+E09000026	Redbridge	Private rented: Other private rented	2497
+E09000026	Redbridge	Lives rent free	227
+E09000027	Richmond upon Thames	Owned: Owns outright	24535
+E09000027	Richmond upon Thames	Owned: Owns with a mortgage or loan	25826
+E09000027	Richmond upon Thames	Shared ownership: Shared ownership	560
+E09000027	Richmond upon Thames	Social rented: Rents from council or Local Authority	1829
+E09000027	Richmond upon Thames	Social rented: Other social rented	7923
+E09000027	Richmond upon Thames	Private rented: Private landlord or letting agency	18393
+E09000027	Richmond upon Thames	Private rented: Other private rented	1577
+E09000027	Richmond upon Thames	Lives rent free	61
+E09000028	Southwark	Owned: Owns outright	13879
+E09000028	Southwark	Owned: Owns with a mortgage or loan	23870
+E09000028	Southwark	Shared ownership: Shared ownership	3182
+E09000028	Southwark	Social rented: Rents from council or Local Authority	35433
+E09000028	Southwark	Social rented: Other social rented	16558
+E09000028	Southwark	Private rented: Private landlord or letting agency	34493
+E09000028	Southwark	Private rented: Other private rented	3013
+E09000028	Southwark	Lives rent free	392
+E09000029	Sutton	Owned: Owns outright	23400
+E09000029	Sutton	Owned: Owns with a mortgage or loan	29647
+E09000029	Sutton	Shared ownership: Shared ownership	889
+E09000029	Sutton	Social rented: Rents from council or Local Authority	5399
+E09000029	Sutton	Social rented: Other social rented	6268
+E09000029	Sutton	Private rented: Private landlord or letting agency	15372
+E09000029	Sutton	Private rented: Other private rented	1311
+E09000029	Sutton	Lives rent free	61
+E09000030	Tower Hamlets	Owned: Owns outright	9424
+E09000030	Tower Hamlets	Owned: Owns with a mortgage or loan	18459
+E09000030	Tower Hamlets	Shared ownership: Shared ownership	3143
+E09000030	Tower Hamlets	Social rented: Rents from council or Local Authority	16697
+E09000030	Tower Hamlets	Social rented: Other social rented	26540
+E09000030	Tower Hamlets	Private rented: Private landlord or letting agency	43126
+E09000030	Tower Hamlets	Private rented: Other private rented	2874
+E09000030	Tower Hamlets	Lives rent free	276
+E09000031	Waltham Forest	Owned: Owns outright	20817
+E09000031	Waltham Forest	Owned: Owns with a mortgage or loan	29539
+E09000031	Waltham Forest	Shared ownership: Shared ownership	1700
+E09000031	Waltham Forest	Social rented: Rents from council or Local Authority	10737
+E09000031	Waltham Forest	Social rented: Other social rented	11362
+E09000031	Waltham Forest	Private rented: Private landlord or letting agency	26361
+E09000031	Waltham Forest	Private rented: Other private rented	2232
+E09000031	Waltham Forest	Lives rent free	153
+E09000032	Wandsworth	Owned: Owns outright	24410
+E09000032	Wandsworth	Owned: Owns with a mortgage or loan	33915
+E09000032	Wandsworth	Shared ownership: Shared ownership	2509
+E09000032	Wandsworth	Social rented: Rents from council or Local Authority	16653
+E09000032	Wandsworth	Social rented: Other social rented	9891
+E09000032	Wandsworth	Private rented: Private landlord or letting agency	46295
+E09000032	Wandsworth	Private rented: Other private rented	3535
+E09000032	Wandsworth	Lives rent free	184
+E09000033	Westminster	Owned: Owns outright	15213
+E09000033	Westminster	Owned: Owns with a mortgage or loan	10749
+E09000033	Westminster	Shared ownership: Shared ownership	695
+E09000033	Westminster	Social rented: Rents from council or Local Authority	12418
+E09000033	Westminster	Social rented: Other social rented	14392
+E09000033	Westminster	Private rented: Private landlord or letting agency	36871
+E09000033	Westminster	Private rented: Other private rented	4194
+E09000033	Westminster	Lives rent free	284
 E09000002,Barking and Dagenham,Does not apply,0
 E09000002,Barking and Dagenham,Owned: Owns outright,11130
 E09000002,Barking and Dagenham,Owned: Owns with a mortgage or loan,20189
