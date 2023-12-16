@@ -1,0 +1,21 @@
+code,category,value,areaName
+E08000025,Very Good,544500,Birmingham
+E08000025,Good,380993,Birmingham
+E08000025,Fair,150801,Birmingham
+E08000025,Bad Health,51755,Birmingham
+E08000025,Very Bad,16870,Birmingham
+E08000032,Very Good,252136,Bradford
+E08000032,Good,188664,Bradford
+E08000032,Fair,73124,Bradford
+E08000032,Bad Health,24904,Bradford
+E08000032,Very Bad,7580,Bradford
+E08000035,Very Good,402056,Leeds
+E08000035,Good,270304,Leeds
+E08000035,Fair,98856,Leeds
+E08000035,Bad Health,31621,Leeds
+E08000035,Very Bad,9116,Leeds
+E08000003,Very Good,280547,Manchester
+E08000003,Good,173458,Manchester
+E08000003,Fair,64955,Manchester
+E08000003,Bad Health,24915,Manchester
+E08000003,Very Bad,8063,Manchester
