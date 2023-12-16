@@ -1,0 +1,89 @@
+code,category,value,areaName
+E06000016,cohabDepChild,4753,Leicester
+E06000047,cohabDepChild,11701,County Durham
+E06000052,cohabDepChild,11940,Cornwall
+E06000054,cohabDepChild,9077,Wiltshire
+E06000060,cohabDepChild,8692,Buckinghamshire
+E06000061,cohabDepChild,8901,North Northamptonshire
+E06000062,cohabDepChild,8876,West Northamptonshire
+E08000003,cohabDepChild,8075,Manchester
+E08000010,cohabDepChild,9126,Wigan
+E08000012,cohabDepChild,8775,Liverpool
+E08000019,cohabDepChild,10756,Sheffield
+E08000025,cohabDepChild,14908,Birmingham
+E08000032,cohabDepChild,9253,Bradford
+E08000035,cohabDepChild,15685,Leeds
+E08000036,cohabDepChild,9426,Wakefield
+E09000003,cohabDepChild,3565,Barnet
+E09000008,cohabDepChild,5690,Croydon
+E09000009,cohabDepChild,3322,Ealing
+E09000010,cohabDepChild,3937,Enfield
+E09000018,cohabDepChild,3013,Hounslow
+E09000025,cohabDepChild,3095,Newham
+E09000026,cohabDepChild,2557,Redbridge
+E06000016,loneDepChild,9828,Leicester
+E06000047,loneDepChild,18904,County Durham
+E06000052,loneDepChild,14263,Cornwall
+E06000054,loneDepChild,11460,Wiltshire
+E06000060,loneDepChild,11950,Buckinghamshire
+E06000061,loneDepChild,10468,North Northamptonshire
+E06000062,loneDepChild,11313,West Northamptonshire
+E08000003,loneDepChild,20225,Manchester
+E08000010,loneDepChild,10503,Wigan
+E08000012,loneDepChild,18917,Liverpool
+E08000019,loneDepChild,16618,Sheffield
+E08000025,loneDepChild,40869,Birmingham
+E08000032,loneDepChild,18865,Bradford
+E08000035,loneDepChild,25870,Leeds
+E08000036,loneDepChild,11120,Wakefield
+E09000003,loneDepChild,10476,Barnet
+E09000008,loneDepChild,15169,Croydon
+E09000009,loneDepChild,9558,Ealing
+E09000010,loneDepChild,14274,Enfield
+E09000018,loneDepChild,7598,Hounslow
+E09000025,loneDepChild,9866,Newham
+E09000026,loneDepChild,7155,Redbridge
+E06000016,marriedDepChild,22376,Leicester
+E06000047,marriedDepChild,25415,County Durham
+E06000052,marriedDepChild,29102,Cornwall
+E06000054,marriedDepChild,34340,Wiltshire
+E06000060,marriedDepChild,43427,Buckinghamshire
+E06000061,marriedDepChild,21671,North Northamptonshire
+E06000062,marriedDepChild,27652,West Northamptonshire
+E08000003,marriedDepChild,28116,Manchester
+E08000010,marriedDepChild,18150,Wigan
+E08000012,marriedDepChild,21030,Liverpool
+E08000019,marriedDepChild,30742,Sheffield
+E08000025,marriedDepChild,66750,Birmingham
+E08000032,marriedDepChild,34178,Bradford
+E08000035,marriedDepChild,46677,Leeds
+E08000036,marriedDepChild,19325,Wakefield
+E09000003,marriedDepChild,29036,Barnet
+E09000008,marriedDepChild,23600,Croydon
+E09000009,marriedDepChild,24366,Ealing
+E09000010,marriedDepChild,20268,Enfield
+E09000018,marriedDepChild,19741,Hounslow
+E09000025,marriedDepChild,20395,Newham
+E09000026,marriedDepChild,23701,Redbridge
+E06000016,otherDepChild,8446,Leicester
+E06000047,otherDepChild,3168,County Durham
+E06000052,otherDepChild,4938,Cornwall
+E06000054,otherDepChild,3682,Wiltshire
+E06000060,otherDepChild,5821,Buckinghamshire
+E06000061,otherDepChild,4114,North Northamptonshire
+E06000062,otherDepChild,5272,West Northamptonshire
+E08000003,otherDepChild,8270,Manchester
+E08000010,otherDepChild,2688,Wigan
+E08000012,otherDepChild,4903,Liverpool
+E08000019,otherDepChild,4662,Sheffield
+E08000025,otherDepChild,21367,Birmingham
+E08000032,otherDepChild,9231,Bradford
+E08000035,otherDepChild,7717,Leeds
+E08000036,otherDepChild,3051,Wakefield
+E09000003,otherDepChild,6468,Barnet
+E09000008,otherDepChild,7250,Croydon
+E09000009,otherDepChild,8420,Ealing
+E09000010,otherDepChild,6924,Enfield
+E09000018,otherDepChild,7389,Hounslow
+E09000025,otherDepChild,11006,Newham
+E09000026,otherDepChild,8666,Redbridge
