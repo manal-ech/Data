@@ -1,0 +1,41 @@
+code,category,value,areaName
+E06000047,cohabDepChild,11701,County Durham
+E06000052,cohabDepChild,11940,Cornwall
+E06000054,cohabDepChild,9077,Wiltshire
+E06000061,cohabDepChild,8901,North Northamptonshire
+E08000010,cohabDepChild,9126,Wigan
+E08000019,cohabDepChild,10756,Sheffield
+E08000025,cohabDepChild,14908,Birmingham
+E08000032,cohabDepChild,9253,Bradford
+E08000035,cohabDepChild,15685,Leeds
+E08000036,cohabDepChild,9426,Wakefield
+E06000047,loneDepChild,18904,County Durham
+E06000052,loneDepChild,14263,Cornwall
+E08000003,loneDepChild,20225,Manchester
+E08000012,loneDepChild,18917,Liverpool
+E08000019,loneDepChild,16618,Sheffield
+E08000025,loneDepChild,40869,Birmingham
+E08000032,loneDepChild,18865,Bradford
+E08000035,loneDepChild,25870,Leeds
+E09000008,loneDepChild,15169,Croydon
+E09000010,loneDepChild,14274,Enfield
+E06000052,marriedDepChild,29102,Cornwall
+E06000054,marriedDepChild,34340,Wiltshire
+E06000060,marriedDepChild,43427,Buckinghamshire
+E06000062,marriedDepChild,27652,West Northamptonshire
+E08000003,marriedDepChild,28116,Manchester
+E08000019,marriedDepChild,30742,Sheffield
+E08000025,marriedDepChild,66750,Birmingham
+E08000032,marriedDepChild,34178,Bradford
+E08000035,marriedDepChild,46677,Leeds
+E09000003,marriedDepChild,29036,Barnet
+E06000016,otherDepChild,8446,Leicester
+E08000003,otherDepChild,8270,Manchester
+E08000025,otherDepChild,21367,Birmingham
+E08000032,otherDepChild,9231,Bradford
+E08000035,otherDepChild,7717,Leeds
+E09000005,otherDepChild,9295,Brent
+E09000009,otherDepChild,8420,Ealing
+E09000018,otherDepChild,7389,Hounslow
+E09000025,otherDepChild,11006,Newham
+E09000026,otherDepChild,8666,Redbridge
