@@ -1,15 +1,8 @@
 code,health,deprivation,value,areaName
-E06000052,Bad,690,26972,Cornwall
 E06000052,veryBad,690,8308,Cornwall
-E08000003,Bad,752,24915,Manchester
 E08000003,veryBad,752,8063,Manchester
-E08000012,Bad,673,29077,Liverpool
 E08000012,veryBad,673,9707,Liverpool
-E08000019,Bad,639,25998,Sheffield
 E08000019,veryBad,639,7570,Sheffield
-E08000025,Bad,1670,51755,Birmingham
 E08000025,veryBad,1670,16870,Birmingham
-E08000032,Bad,770,24904,Bradford
 E08000032,veryBad,770,7580,Bradford
-E08000035,Bad,962,31621,Leeds
 E08000035,veryBad,962,9116,Leeds
