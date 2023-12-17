@@ -1,14 +1,7 @@
 code,health,deprivation,value,areaName
-E08000025,veryBad,1670,16870,Birmingham
-E08000032,veryBad,770,7580,Bradford
-E09000001,veryBad,8,47,City of London
-E06000052,veryBad,690,8308,Cornwall
-E07000163,veryBad,19,530,Craven
 E07000030,veryBad,22,523,Eden
-E06000053,veryBad,0,17,Isles of Scilly
-E08000035,veryBad,962,9116,Leeds
-E08000012,veryBad,673,9707,Liverpool
-E08000003,veryBad,752,8063,Manchester
+E07000163,veryBad,19,530,Craven
 E07000166,veryBad,13,443,Richmondshire
+E09000001,veryBad,8,47,City of London
 E06000017,veryBad,8,282,Rutland
-E08000019,veryBad,639,7570,Sheffield
+E06000053,veryBad,0,17,Isles of Scilly
